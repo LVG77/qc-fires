@@ -1,0 +1,66 @@
+[
+    {
+        "no_feu": "209",
+        "condition_feu": "4 - Contenu",
+        "superficie": "1.9",
+        "mrc": "96 - Manicouagan",
+        "lat_dms": "50.5694",
+        "lon_dms": "-68.8897"
+    },
+    {
+        "no_feu": "205",
+        "condition_feu": "4 - Contenu",
+        "superficie": "7",
+        "mrc": "96 - Manicouagan",
+        "lat_dms": "49.9797",
+        "lon_dms": "-68.7164"
+    },
+    {
+        "no_feu": "202",
+        "condition_feu": "4 - Contenu",
+        "superficie": "30",
+        "mrc": "35 - Mékinac",
+        "lat_dms": "47.3397",
+        "lon_dms": "-73.7817"
+    },
+    {
+        "no_feu": "200",
+        "condition_feu": "5 - Maîtrisé",
+        "superficie": "12.5",
+        "mrc": "88 - Abitibi",
+        "lat_dms": "48.6472",
+        "lon_dms": "-77.6328"
+    },
+    {
+        "no_feu": "196",
+        "condition_feu": "5 - Maîtrisé",
+        "superficie": "2.4000001",
+        "mrc": "91 - Le Domaine-du-Roy",
+        "lat_dms": "48.2961",
+        "lon_dms": "-72.0131"
+    },
+    {
+        "no_feu": "173",
+        "condition_feu": "5 - Maîtrisé",
+        "superficie": "31.4",
+        "mrc": "942 - Le Fjord-du-Saguenay",
+        "lat_dms": "48.1686",
+        "lon_dms": "-70.8722"
+    },
+    {
+        "no_feu": "165",
+        "condition_feu": "4 - Contenu",
+        "superficie": "79.099998",
+        "mrc": "991 - Jamésie",
+        "lat_dms": "49.0486",
+        "lon_dms": "-75.8294"
+    },
+    {
+        "no_feu": "163",
+        "condition_feu": "5 - Maîtrisé",
+        "superficie": "22.200001",
+        "mrc": "991 - Jamésie",
+        "lat_dms": "49.7342",
+        "lon_dms": "-74.5375"
+    }
+]
