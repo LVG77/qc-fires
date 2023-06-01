@@ -1,8 +1,32 @@
 [
     {
+        "no_feu": "216",
+        "condition_feu": "4 - Contenu",
+        "superficie": "21.1",
+        "mrc": "991 - Jamésie",
+        "lat_dms": "49.7808",
+        "lon_dms": "-74.4792"
+    },
+    {
+        "no_feu": "215",
+        "condition_feu": "3 - Hors-Ctrl",
+        "superficie": "968",
+        "mrc": "971 - Sept-Rivières",
+        "lat_dms": "50.3747",
+        "lon_dms": "-66.3844"
+    },
+    {
+        "no_feu": "213",
+        "condition_feu": "3 - Hors-Ctrl",
+        "superficie": "2400",
+        "mrc": "991 - Jamésie",
+        "lat_dms": "49.7425",
+        "lon_dms": "-74.9861"
+    },
+    {
         "no_feu": "212",
-        "condition_feu": "1 - Nouveau",
-        "superficie": "0",
+        "condition_feu": "4 - Contenu",
+        "superficie": "20",
         "mrc": "942 - Le Fjord-du-Saguenay",
         "lat_dms": "48.2592",
         "lon_dms": "-70.4203"
@@ -10,10 +34,10 @@
     {
         "no_feu": "209",
         "condition_feu": "4 - Contenu",
-        "superficie": "2.3",
+        "superficie": "3.7",
         "mrc": "96 - Manicouagan",
-        "lat_dms": "50.5731",
-        "lon_dms": "-68.9125"
+        "lat_dms": "50.5739",
+        "lon_dms": "-68.9153"
     },
     {
         "no_feu": "205",
@@ -34,7 +58,7 @@
     {
         "no_feu": "200",
         "condition_feu": "5 - Maîtrisé",
-        "superficie": "12.5",
+        "superficie": "13.9",
         "mrc": "88 - Abitibi",
         "lat_dms": "48.6472",
         "lon_dms": "-77.6328"
@@ -62,13 +86,5 @@
         "mrc": "991 - Jamésie",
         "lat_dms": "49.0486",
         "lon_dms": "-75.8294"
-    },
-    {
-        "no_feu": "163",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "22.200001",
-        "mrc": "991 - Jamésie",
-        "lat_dms": "49.7342",
-        "lon_dms": "-74.5375"
     }
 ]
