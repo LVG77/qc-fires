@@ -1,11 +1,107 @@
 [
     {
+        "no_feu": "326",
+        "condition_feu": "3 - Hors-Ctrl",
+        "superficie": "14",
+        "mrc": "95 - La Haute-Côte-Nord",
+        "lat_dms": "49.66",
+        "lon_dms": "-69.9722"
+    },
+    {
+        "no_feu": "325",
+        "condition_feu": "4 - Contenu",
+        "superficie": "0",
+        "mrc": "991 - Jamésie",
+        "lat_dms": "49.3711",
+        "lon_dms": "-77.0447"
+    },
+    {
+        "no_feu": "324",
+        "condition_feu": "4 - Contenu",
+        "superficie": "0.1",
+        "mrc": "991 - Jamésie",
+        "lat_dms": "49.7414",
+        "lon_dms": "-74.2403"
+    },
+    {
+        "no_feu": "323",
+        "condition_feu": "1 - Nouveau",
+        "superficie": "0.2",
+        "mrc": "91 - Le Domaine-du-Roy",
+        "lat_dms": "48.0803",
+        "lon_dms": "-71.9894"
+    },
+    {
+        "no_feu": "322",
+        "condition_feu": "1 - Nouveau",
+        "superficie": "1",
+        "mrc": "991 - Jamésie",
+        "lat_dms": "49.2817",
+        "lon_dms": "-74.9906"
+    },
+    {
+        "no_feu": "321",
+        "condition_feu": "3 - Hors-Ctrl",
+        "superficie": "0",
+        "mrc": "89 - La Vallée-de-l'Or",
+        "lat_dms": "47.5333",
+        "lon_dms": "-76.5881"
+    },
+    {
+        "no_feu": "320",
+        "condition_feu": "3 - Hors-Ctrl",
+        "superficie": "0",
+        "mrc": "89 - La Vallée-de-l'Or",
+        "lat_dms": "47.5289",
+        "lon_dms": "-76.5756"
+    },
+    {
+        "no_feu": "319",
+        "condition_feu": "3 - Hors-Ctrl",
+        "superficie": "1",
+        "mrc": "90 - La Tuque",
+        "lat_dms": "48.7861",
+        "lon_dms": "-74.2297"
+    },
+    {
+        "no_feu": "318",
+        "condition_feu": "3 - Hors-Ctrl",
+        "superficie": "0.2",
+        "mrc": "91 - Le Domaine-du-Roy",
+        "lat_dms": "48.4769",
+        "lon_dms": "-73.6614"
+    },
+    {
+        "no_feu": "317",
+        "condition_feu": "3 - Hors-Ctrl",
+        "superficie": "0",
+        "mrc": "89 - La Vallée-de-l'Or",
+        "lat_dms": "48.0469",
+        "lon_dms": "-76.0389"
+    },
+    {
+        "no_feu": "316",
+        "condition_feu": "3 - Hors-Ctrl",
+        "superficie": "0.1",
+        "mrc": "90 - La Tuque",
+        "lat_dms": "47.5819",
+        "lon_dms": "-73.9175"
+    },
+    {
+        "no_feu": "315",
+        "condition_feu": "4 - Contenu",
+        "superficie": "0.5",
+        "mrc": "88 - Abitibi",
+        "lat_dms": "48.8014",
+        "lon_dms": "-77.2322"
+    },
+    {
         "no_feu": "314",
         "condition_feu": "3 - Hors-Ctrl",
         "superficie": "100",
         "mrc": "991 - Jamésie",
-        "lat_dms": "49.6592",
-        "lon_dms": "-76.8236"
+        "lat_dms": "49.5897",
+        "lon_dms": "-76.6878"
     },
     {
         "no_feu": "313",
@@ -17,15 +113,15 @@
     },
     {
         "no_feu": "312",
-        "condition_feu": "1 - Nouveau",
-        "superficie": "0",
+        "condition_feu": "3 - Hors-Ctrl",
+        "superficie": "15",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.0308",
         "lon_dms": "-76.5067"
     },
     {
         "no_feu": "311",
-        "condition_feu": "1 - Nouveau",
+        "condition_feu": "3 - Hors-Ctrl",
         "superficie": "0",
         "mrc": "89 - La Vallée-de-l'Or",
         "lat_dms": "48.8122",
@@ -49,7 +145,7 @@
     },
     {
         "no_feu": "308",
-        "condition_feu": "1 - Nouveau",
+        "condition_feu": "3 - Hors-Ctrl",
         "superficie": "94",
         "mrc": "35 - Mékinac",
         "lat_dms": "47.0119",
@@ -57,7 +153,7 @@
     },
     {
         "no_feu": "307",
-        "condition_feu": "1 - Nouveau",
+        "condition_feu": "4 - Contenu",
         "superficie": "0",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.4628",
@@ -66,7 +162,7 @@
     {
         "no_feu": "305",
         "condition_feu": "1 - Nouveau",
-        "superficie": "28",
+        "superficie": "26.5",
         "mrc": "92 - Maria-Chapdelaine",
         "lat_dms": "49.7236",
         "lon_dms": "-72.6042"
@@ -89,11 +185,11 @@
     },
     {
         "no_feu": "302",
-        "condition_feu": "1 - Nouveau",
-        "superficie": "40",
+        "condition_feu": "3 - Hors-Ctrl",
+        "superficie": "120",
         "mrc": "90 - La Tuque",
-        "lat_dms": "48.5889",
-        "lon_dms": "-74.0058"
+        "lat_dms": "48.7064",
+        "lon_dms": "-74.1272"
     },
     {
         "no_feu": "301",
@@ -137,8 +233,8 @@
     },
     {
         "no_feu": "296",
-        "condition_feu": "1 - Nouveau",
-        "superficie": "0",
+        "condition_feu": "4 - Contenu",
+        "superficie": "1.5",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.2281",
         "lon_dms": "-76.5572"
@@ -146,7 +242,7 @@
     {
         "no_feu": "295",
         "condition_feu": "1 - Nouveau",
-        "superficie": "42",
+        "superficie": "41.099998",
         "mrc": "92 - Maria-Chapdelaine",
         "lat_dms": "49.6947",
         "lon_dms": "-72.5819"
@@ -169,8 +265,8 @@
     },
     {
         "no_feu": "292",
-        "condition_feu": "1 - Nouveau",
-        "superficie": "0",
+        "condition_feu": "3 - Hors-Ctrl",
+        "superficie": "2",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.2153",
         "lon_dms": "-76.3397"
@@ -193,7 +289,7 @@
     },
     {
         "no_feu": "289",
-        "condition_feu": "1 - Nouveau",
+        "condition_feu": "3 - Hors-Ctrl",
         "superficie": "28",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.4267",
@@ -201,10 +297,10 @@
     },
     {
         "no_feu": "288",
-        "condition_feu": "1 - Nouveau",
-        "superficie": "-0.1",
+        "condition_feu": "3 - Hors-Ctrl",
+        "superficie": "0",
         "mrc": "89 - La Vallée-de-l'Or",
-        "lat_dms": "47.6006",
+        "lat_dms": "47.615",
         "lon_dms": "-76.5919"
     },
     {
@@ -226,10 +322,10 @@
     {
         "no_feu": "285",
         "condition_feu": "4 - Contenu",
-        "superficie": "0",
+        "superficie": "0.40000001",
         "mrc": "90 - La Tuque",
-        "lat_dms": "47.5172",
-        "lon_dms": "-72.7008"
+        "lat_dms": "47.5281",
+        "lon_dms": "-72.71"
     },
     {
         "no_feu": "284",
@@ -241,7 +337,7 @@
     },
     {
         "no_feu": "283",
-        "condition_feu": "1 - Nouveau",
+        "condition_feu": "3 - Hors-Ctrl",
         "superficie": "31",
         "mrc": "96 - Manicouagan",
         "lat_dms": "49.5558",
@@ -249,11 +345,11 @@
     },
     {
         "no_feu": "282",
-        "condition_feu": "1 - Nouveau",
+        "condition_feu": "4 - Contenu",
         "superficie": "0.1",
         "mrc": "90 - La Tuque",
-        "lat_dms": "47.4161",
-        "lon_dms": "-72.5475"
+        "lat_dms": "47.4072",
+        "lon_dms": "-72.5808"
     },
     {
         "no_feu": "281",
@@ -281,7 +377,7 @@
     },
     {
         "no_feu": "278",
-        "condition_feu": "1 - Nouveau",
+        "condition_feu": "3 - Hors-Ctrl",
         "superficie": "0",
         "mrc": "89 - La Vallée-de-l'Or",
         "lat_dms": "48.7689",
@@ -290,14 +386,14 @@
     {
         "no_feu": "277",
         "condition_feu": "1 - Nouveau",
-        "superficie": "250",
+        "superficie": "564.09998",
         "mrc": "92 - Maria-Chapdelaine",
         "lat_dms": "49.5208",
         "lon_dms": "-72.6058"
     },
     {
         "no_feu": "276",
-        "condition_feu": "1 - Nouveau",
+        "condition_feu": "4 - Contenu",
         "superficie": "17",
         "mrc": "90 - La Tuque",
         "lat_dms": "47.2011",
@@ -313,7 +409,7 @@
     },
     {
         "no_feu": "274",
-        "condition_feu": "1 - Nouveau",
+        "condition_feu": "3 - Hors-Ctrl",
         "superficie": "1",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.5083",
@@ -321,7 +417,7 @@
     },
     {
         "no_feu": "272",
-        "condition_feu": "1 - Nouveau",
+        "condition_feu": "3 - Hors-Ctrl",
         "superficie": "5.1999998",
         "mrc": "83 - La Vallée-de-la-Gatineau",
         "lat_dms": "47.6158",
@@ -331,13 +427,13 @@
         "no_feu": "271",
         "condition_feu": "1 - Nouveau",
         "superficie": "6",
-        "mrc": "92 - Maria-Chapdelaine",
-        "lat_dms": "49.5861",
-        "lon_dms": "-71.5569"
+        "mrc": "942 - Le Fjord-du-Saguenay",
+        "lat_dms": "50.2925",
+        "lon_dms": "-70.5722"
     },
     {
         "no_feu": "270",
-        "condition_feu": "1 - Nouveau",
+        "condition_feu": "3 - Hors-Ctrl",
         "superficie": "100",
         "mrc": "96 - Manicouagan",
         "lat_dms": "49.7189",
@@ -345,7 +441,7 @@
     },
     {
         "no_feu": "269",
-        "condition_feu": "1 - Nouveau",
+        "condition_feu": "3 - Hors-Ctrl",
         "superficie": "0",
         "mrc": "95 - La Haute-Côte-Nord",
         "lat_dms": "49.4986",
@@ -353,7 +449,7 @@
     },
     {
         "no_feu": "268",
-        "condition_feu": "1 - Nouveau",
+        "condition_feu": "3 - Hors-Ctrl",
         "superficie": "4",
         "mrc": "89 - La Vallée-de-l'Or",
         "lat_dms": "48.5128",
@@ -361,15 +457,15 @@
     },
     {
         "no_feu": "267",
-        "condition_feu": "1 - Nouveau",
-        "superficie": "0",
+        "condition_feu": "3 - Hors-Ctrl",
+        "superficie": "0.89999998",
         "mrc": "95 - La Haute-Côte-Nord",
         "lat_dms": "49.565",
         "lon_dms": "-69.7389"
     },
     {
         "no_feu": "266",
-        "condition_feu": "1 - Nouveau",
+        "condition_feu": "3 - Hors-Ctrl",
         "superficie": "0",
         "mrc": "89 - La Vallée-de-l'Or",
         "lat_dms": "48.8186",
@@ -380,12 +476,12 @@
         "condition_feu": "1 - Nouveau",
         "superficie": "0.1",
         "mrc": "92 - Maria-Chapdelaine",
-        "lat_dms": "49.5667",
-        "lon_dms": "-71.5833"
+        "lat_dms": "49.4403",
+        "lon_dms": "-71.5572"
     },
     {
         "no_feu": "264",
-        "condition_feu": "1 - Nouveau",
+        "condition_feu": "3 - Hors-Ctrl",
         "superficie": "30",
         "mrc": "89 - La Vallée-de-l'Or",
         "lat_dms": "48.7808",
@@ -393,7 +489,7 @@
     },
     {
         "no_feu": "263",
-        "condition_feu": "1 - Nouveau",
+        "condition_feu": "3 - Hors-Ctrl",
         "superficie": "0",
         "mrc": "95 - La Haute-Côte-Nord",
         "lat_dms": "49.5747",
@@ -401,7 +497,7 @@
     },
     {
         "no_feu": "262",
-        "condition_feu": "1 - Nouveau",
+        "condition_feu": "3 - Hors-Ctrl",
         "superficie": "0",
         "mrc": "89 - La Vallée-de-l'Or",
         "lat_dms": "48.8231",
@@ -409,15 +505,15 @@
     },
     {
         "no_feu": "261",
-        "condition_feu": "1 - Nouveau",
-        "superficie": "0",
+        "condition_feu": "3 - Hors-Ctrl",
+        "superficie": "5",
         "mrc": "95 - La Haute-Côte-Nord",
-        "lat_dms": "49.545",
-        "lon_dms": "-69.6711"
+        "lat_dms": "49.5064",
+        "lon_dms": "-69.6569"
     },
     {
         "no_feu": "260",
-        "condition_feu": "1 - Nouveau",
+        "condition_feu": "3 - Hors-Ctrl",
         "superficie": "0",
         "mrc": "89 - La Vallée-de-l'Or",
         "lat_dms": "48.7672",
@@ -425,7 +521,7 @@
     },
     {
         "no_feu": "259",
-        "condition_feu": "1 - Nouveau",
+        "condition_feu": "3 - Hors-Ctrl",
         "superficie": "0",
         "mrc": "95 - La Haute-Côte-Nord",
         "lat_dms": "49.6536",
@@ -433,7 +529,7 @@
     },
     {
         "no_feu": "258",
-        "condition_feu": "1 - Nouveau",
+        "condition_feu": "3 - Hors-Ctrl",
         "superficie": "0",
         "mrc": "89 - La Vallée-de-l'Or",
         "lat_dms": "48.855",
@@ -441,16 +537,16 @@
     },
     {
         "no_feu": "257",
-        "condition_feu": "1 - Nouveau",
+        "condition_feu": "3 - Hors-Ctrl",
         "superficie": "0",
         "mrc": "96 - Manicouagan",
-        "lat_dms": "49.5253",
-        "lon_dms": "-68.5531"
+        "lat_dms": "49.5128",
+        "lon_dms": "-68.6239"
     },
     {
         "no_feu": "256",
-        "condition_feu": "1 - Nouveau",
-        "superficie": "0",
+        "condition_feu": "4 - Contenu",
+        "superficie": "10.3",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.3042",
         "lon_dms": "-76.9269"
@@ -465,7 +561,7 @@
     },
     {
         "no_feu": "254",
-        "condition_feu": "1 - Nouveau",
+        "condition_feu": "5 - Maîtrisé",
         "superficie": "0.40000001",
         "mrc": "95 - La Haute-Côte-Nord",
         "lat_dms": "49.7536",
@@ -481,7 +577,7 @@
     },
     {
         "no_feu": "252",
-        "condition_feu": "1 - Nouveau",
+        "condition_feu": "3 - Hors-Ctrl",
         "superficie": "0",
         "mrc": "95 - La Haute-Côte-Nord",
         "lat_dms": "49.5369",
@@ -497,7 +593,7 @@
     },
     {
         "no_feu": "250",
-        "condition_feu": "1 - Nouveau",
+        "condition_feu": "3 - Hors-Ctrl",
         "superficie": "0",
         "mrc": "89 - La Vallée-de-l'Or",
         "lat_dms": "47.91",
@@ -505,7 +601,7 @@
     },
     {
         "no_feu": "249",
-        "condition_feu": "1 - Nouveau",
+        "condition_feu": "3 - Hors-Ctrl",
         "superficie": "40",
         "mrc": "942 - Le Fjord-du-Saguenay",
         "lat_dms": "49.3578",
@@ -513,7 +609,7 @@
     },
     {
         "no_feu": "248",
-        "condition_feu": "1 - Nouveau",
+        "condition_feu": "3 - Hors-Ctrl",
         "superficie": "0",
         "mrc": "89 - La Vallée-de-l'Or",
         "lat_dms": "47.9117",
@@ -521,7 +617,7 @@
     },
     {
         "no_feu": "247",
-        "condition_feu": "1 - Nouveau",
+        "condition_feu": "3 - Hors-Ctrl",
         "superficie": "0",
         "mrc": "83 - La Vallée-de-la-Gatineau",
         "lat_dms": "47.5289",
@@ -529,15 +625,15 @@
     },
     {
         "no_feu": "245",
-        "condition_feu": "1 - Nouveau",
-        "superficie": "0",
+        "condition_feu": "3 - Hors-Ctrl",
+        "superficie": "0.89999998",
         "mrc": "89 - La Vallée-de-l'Or",
         "lat_dms": "48.4708",
         "lon_dms": "-76.8569"
     },
     {
         "no_feu": "244",
-        "condition_feu": "1 - Nouveau",
+        "condition_feu": "3 - Hors-Ctrl",
         "superficie": "0",
         "mrc": "89 - La Vallée-de-l'Or",
         "lat_dms": "48.3839",
@@ -545,7 +641,7 @@
     },
     {
         "no_feu": "243",
-        "condition_feu": "1 - Nouveau",
+        "condition_feu": "3 - Hors-Ctrl",
         "superficie": "140",
         "mrc": "92 - Maria-Chapdelaine",
         "lat_dms": "49.3275",
@@ -553,7 +649,7 @@
     },
     {
         "no_feu": "242",
-        "condition_feu": "1 - Nouveau",
+        "condition_feu": "3 - Hors-Ctrl",
         "superficie": "1",
         "mrc": "92 - Maria-Chapdelaine",
         "lat_dms": "49.3283",
@@ -578,7 +674,7 @@
     {
         "no_feu": "238",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "280",
+        "superficie": "243",
         "mrc": "89 - La Vallée-de-l'Or",
         "lat_dms": "47.5953",
         "lon_dms": "-76.5986"
@@ -602,9 +698,9 @@
     {
         "no_feu": "235",
         "condition_feu": "4 - Contenu",
-        "superficie": "6",
+        "superficie": "3.5999999",
         "mrc": "991 - Jamésie",
-        "lat_dms": "49.3875",
+        "lat_dms": "49.3883",
         "lon_dms": "-77.0656"
     },
     {
@@ -618,7 +714,7 @@
     {
         "no_feu": "233",
         "condition_feu": "4 - Contenu",
-        "superficie": "0",
+        "superficie": "7.6999998",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.4347",
         "lon_dms": "-77.2211"
@@ -641,7 +737,7 @@
     },
     {
         "no_feu": "230",
-        "condition_feu": "1 - Nouveau",
+        "condition_feu": "4 - Contenu",
         "superficie": "0",
         "mrc": "35 - Mékinac",
         "lat_dms": "46.8333",
@@ -649,7 +745,7 @@
     },
     {
         "no_feu": "229",
-        "condition_feu": "1 - Nouveau",
+        "condition_feu": "3 - Hors-Ctrl",
         "superficie": "12",
         "mrc": "90 - La Tuque",
         "lat_dms": "47.6956",
@@ -682,7 +778,7 @@
     {
         "no_feu": "225",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "300",
+        "superficie": "438",
         "mrc": "90 - La Tuque",
         "lat_dms": "48.0569",
         "lon_dms": "-75.2647"
@@ -698,7 +794,7 @@
     {
         "no_feu": "222",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "298.39999",
+        "superficie": "900",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.0603",
         "lon_dms": "-76.1283"
@@ -754,7 +850,7 @@
     {
         "no_feu": "202",
         "condition_feu": "5 - Maîtrisé",
-        "superficie": "30",
+        "superficie": "61.799999",
         "mrc": "35 - Mékinac",
         "lat_dms": "47.3397",
         "lon_dms": "-73.7817"
@@ -762,7 +858,7 @@
     {
         "no_feu": "196",
         "condition_feu": "4 - Contenu",
-        "superficie": "8",
+        "superficie": "6.1999998",
         "mrc": "91 - Le Domaine-du-Roy",
         "lat_dms": "48.2961",
         "lon_dms": "-72.0131"
