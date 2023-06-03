@@ -1,27 +1,91 @@
 [
     {
+        "no_feu": "376",
+        "condition_feu": "3 - Hors-Ctrl",
+        "superficie": "0",
+        "mrc": "89 - La Vallée-de-l'Or",
+        "lat_dms": "48.9044",
+        "lon_dms": "-75.8253"
+    },
+    {
+        "no_feu": "375",
+        "condition_feu": "1 - Nouveau",
+        "superficie": "0",
+        "mrc": "96 - Manicouagan",
+        "lat_dms": "49.5828",
+        "lon_dms": "-68.4406"
+    },
+    {
+        "no_feu": "374",
+        "condition_feu": "4 - Contenu",
+        "superficie": "0",
+        "mrc": "35 - Mékinac",
+        "lat_dms": "47.2636",
+        "lon_dms": "-73.5714"
+    },
+    {
+        "no_feu": "373",
+        "condition_feu": "3 - Hors-Ctrl",
+        "superficie": "0",
+        "mrc": "90 - La Tuque",
+        "lat_dms": "48.8433",
+        "lon_dms": "-75.1025"
+    },
+    {
+        "no_feu": "372",
+        "condition_feu": "3 - Hors-Ctrl",
+        "superficie": "0",
+        "mrc": "90 - La Tuque",
+        "lat_dms": "48.7817",
+        "lon_dms": "-75.2447"
+    },
+    {
+        "no_feu": "371",
+        "condition_feu": "3 - Hors-Ctrl",
+        "superficie": "4",
+        "mrc": "991 - Jamésie",
+        "lat_dms": "49.1428",
+        "lon_dms": "-75.1894"
+    },
+    {
+        "no_feu": "370",
+        "condition_feu": "3 - Hors-Ctrl",
+        "superficie": "0",
+        "mrc": "991 - Jamésie",
+        "lat_dms": "49.2325",
+        "lon_dms": "-75.31"
+    },
+    {
+        "no_feu": "369",
+        "condition_feu": "3 - Hors-Ctrl",
+        "superficie": "0",
+        "mrc": "991 - Jamésie",
+        "lat_dms": "49.1686",
+        "lon_dms": "-75.6703"
+    },
+    {
         "no_feu": "368",
         "condition_feu": "3 - Hors-Ctrl",
         "superficie": "3600",
         "mrc": "991 - Jamésie",
-        "lat_dms": "50.6383",
-        "lon_dms": "-74.1764"
+        "lat_dms": "50.4833",
+        "lon_dms": "-74.2783"
     },
     {
         "no_feu": "367",
         "condition_feu": "3 - Hors-Ctrl",
         "superficie": "4500",
         "mrc": "991 - Jamésie",
-        "lat_dms": "50.6519",
-        "lon_dms": "-74.2611"
+        "lat_dms": "50.6572",
+        "lon_dms": "-74.1342"
     },
     {
         "no_feu": "366",
         "condition_feu": "1 - Nouveau",
         "superficie": "0",
         "mrc": "78 - Les Laurentides",
-        "lat_dms": "46.0208",
-        "lon_dms": "-74.7047"
+        "lat_dms": "46.0297",
+        "lon_dms": "-74.6944"
     },
     {
         "no_feu": "365",
@@ -33,7 +97,7 @@
     },
     {
         "no_feu": "364",
-        "condition_feu": "1 - Nouveau",
+        "condition_feu": "4 - Contenu",
         "superficie": "0",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.7397",
@@ -44,12 +108,12 @@
         "condition_feu": "3 - Hors-Ctrl",
         "superficie": "20.299999",
         "mrc": "991 - Jamésie",
-        "lat_dms": "49.8992",
-        "lon_dms": "-74.2403"
+        "lat_dms": "50.1556",
+        "lon_dms": "-73.9494"
     },
     {
         "no_feu": "362",
-        "condition_feu": "1 - Nouveau",
+        "condition_feu": "4 - Contenu",
         "superficie": "0",
         "mrc": "971 - Sept-Rivières",
         "lat_dms": "50.1403",
@@ -241,7 +305,7 @@
     },
     {
         "no_feu": "329",
-        "condition_feu": "4 - Contenu",
+        "condition_feu": "3 - Hors-Ctrl",
         "superficie": "0.1",
         "mrc": "942 - Le Fjord-du-Saguenay",
         "lat_dms": "48.8453",
@@ -305,7 +369,7 @@
     },
     {
         "no_feu": "318",
-        "condition_feu": "3 - Hors-Ctrl",
+        "condition_feu": "4 - Contenu",
         "superficie": "0.2",
         "mrc": "91 - Le Domaine-du-Roy",
         "lat_dms": "48.4769",
@@ -369,7 +433,7 @@
     },
     {
         "no_feu": "310",
-        "condition_feu": "3 - Hors-Ctrl",
+        "condition_feu": "4 - Contenu",
         "superficie": "0.5",
         "mrc": "95 - La Haute-Côte-Nord",
         "lat_dms": "48.9708",
@@ -546,7 +610,7 @@
     {
         "no_feu": "283",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "197.7",
+        "superficie": "150",
         "mrc": "96 - Manicouagan",
         "lat_dms": "49.5558",
         "lon_dms": "-68.6725"
@@ -602,7 +666,7 @@
     {
         "no_feu": "275",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "204",
+        "superficie": "218.60001",
         "mrc": "91 - Le Domaine-du-Roy",
         "lat_dms": "48.6556",
         "lon_dms": "-72.8678"
@@ -634,7 +698,7 @@
     {
         "no_feu": "270",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "108.8",
+        "superficie": "100",
         "mrc": "96 - Manicouagan",
         "lat_dms": "49.7189",
         "lon_dms": "-68.6139"
@@ -730,7 +794,7 @@
     {
         "no_feu": "257",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "11",
+        "superficie": "6",
         "mrc": "96 - Manicouagan",
         "lat_dms": "49.5128",
         "lon_dms": "-68.6239"
@@ -986,7 +1050,7 @@
     {
         "no_feu": "213",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "1393.6",
+        "superficie": "1043",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.7425",
         "lon_dms": "-74.9861"
