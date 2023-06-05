@@ -5,7 +5,7 @@
         "superficie": "4",
         "mrc": "84 - Pontiac",
         "lat_dms": "46.3803",
-        "lon_dms": "-76.9389"
+        "lon_dms": "-76.94"
     },
     {
         "no_feu": "427",
@@ -34,7 +34,7 @@
     {
         "no_feu": "424",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "65.800003",
+        "superficie": "300",
         "mrc": "96 - Manicouagan",
         "lat_dms": "49.5253",
         "lon_dms": "-68.5531"
@@ -42,7 +42,7 @@
     {
         "no_feu": "423",
         "condition_feu": "4 - Contenu",
-        "superficie": "3.0999999",
+        "superficie": "1.5",
         "mrc": "942 - Le Fjord-du-Saguenay",
         "lat_dms": "48.9311",
         "lon_dms": "-71.355"
@@ -100,12 +100,12 @@
         "condition_feu": "1 - Nouveau",
         "superficie": "7.5999999",
         "mrc": "95 - La Haute-Côte-Nord",
-        "lat_dms": "48.75",
-        "lon_dms": "-70"
+        "lat_dms": "48.7414",
+        "lon_dms": "-69.9836"
     },
     {
         "no_feu": "413",
-        "condition_feu": "1 - Nouveau",
+        "condition_feu": "4 - Contenu",
         "superficie": "0.40000001",
         "mrc": "96 - Manicouagan",
         "lat_dms": "49.2817",
@@ -170,7 +170,7 @@
     {
         "no_feu": "403",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "54",
+        "superficie": "53.099998",
         "mrc": "89 - La Vallée-de-l'Or",
         "lat_dms": "47.7717",
         "lon_dms": "-76.6992"
@@ -346,7 +346,7 @@
     {
         "no_feu": "375",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "1",
+        "superficie": "150",
         "mrc": "96 - Manicouagan",
         "lat_dms": "49.5828",
         "lon_dms": "-68.4406"
@@ -354,7 +354,7 @@
     {
         "no_feu": "374",
         "condition_feu": "4 - Contenu",
-        "superficie": "35.400002",
+        "superficie": "32.200001",
         "mrc": "35 - Mékinac",
         "lat_dms": "47.2933",
         "lon_dms": "-73.6189"
@@ -514,7 +514,7 @@
     {
         "no_feu": "346",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "61",
+        "superficie": "60.200001",
         "mrc": "84 - Pontiac",
         "lat_dms": "46.8397",
         "lon_dms": "-76.9475"
@@ -546,7 +546,7 @@
     {
         "no_feu": "337",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "700",
+        "superficie": "620.70001",
         "mrc": "84 - Pontiac",
         "lat_dms": "46.5953",
         "lon_dms": "-77.3606"
@@ -786,7 +786,7 @@
     {
         "no_feu": "289",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "28",
+        "superficie": "16.9",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.4267",
         "lon_dms": "-76.5142"
@@ -1202,7 +1202,7 @@
     {
         "no_feu": "215",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "36863.5",
+        "superficie": "807.90002",
         "mrc": "971 - Sept-Rivières",
         "lat_dms": "50.3747",
         "lon_dms": "-66.3844"
