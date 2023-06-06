@@ -16,14 +16,6 @@
         "lon_dms": "-75.0286"
     },
     {
-        "no_feu": "432",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "0",
-        "mrc": "78 - Les Laurentides",
-        "lat_dms": "46.0614",
-        "lon_dms": "-74.3322"
-    },
-    {
         "no_feu": "431",
         "condition_feu": "3 - Hors-Ctrl",
         "superficie": "90.5",
@@ -34,7 +26,7 @@
     {
         "no_feu": "430",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "1",
+        "superficie": "33.099998",
         "mrc": "95 - La Haute-Côte-Nord",
         "lat_dms": "49.3747",
         "lon_dms": "-69.7864"
@@ -82,7 +74,7 @@
     {
         "no_feu": "423",
         "condition_feu": "5 - Maîtrisé",
-        "superficie": "2.7",
+        "superficie": "2.8",
         "mrc": "942 - Le Fjord-du-Saguenay",
         "lat_dms": "48.9311",
         "lon_dms": "-71.355"
@@ -170,7 +162,7 @@
     {
         "no_feu": "410",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "1453.9",
+        "superficie": "1817.6",
         "mrc": "92 - Maria-Chapdelaine",
         "lat_dms": "49.3453",
         "lon_dms": "-71.4986"
@@ -466,7 +458,7 @@
     {
         "no_feu": "360",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "334.20001",
+        "superficie": "180",
         "mrc": "83 - La Vallée-de-la-Gatineau",
         "lat_dms": "47.4275",
         "lon_dms": "-75.9203"
@@ -513,8 +505,8 @@
     },
     {
         "no_feu": "348",
-        "condition_feu": "1 - Nouveau",
-        "superficie": "5",
+        "condition_feu": "4 - Contenu",
+        "superficie": "0",
         "mrc": "90 - La Tuque",
         "lat_dms": "48.4536",
         "lon_dms": "-74.9756"
@@ -546,7 +538,7 @@
     {
         "no_feu": "339",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "1337",
+        "superficie": "2444.3",
         "mrc": "90 - La Tuque",
         "lat_dms": "48.4889",
         "lon_dms": "-74.8294"
@@ -740,8 +732,8 @@
         "condition_feu": "3 - Hors-Ctrl",
         "superficie": "10.2",
         "mrc": "87 - Abitibi-Ouest",
-        "lat_dms": "48.8497",
-        "lon_dms": "-79.5219"
+        "lat_dms": "48.9492",
+        "lon_dms": "-79.6475"
     },
     {
         "no_feu": "299",
@@ -970,7 +962,7 @@
     {
         "no_feu": "265",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "2128.7",
+        "superficie": "2777.3999",
         "mrc": "92 - Maria-Chapdelaine",
         "lat_dms": "49.4403",
         "lon_dms": "-71.5572"
@@ -1050,7 +1042,7 @@
     {
         "no_feu": "249",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "4851.7998",
+        "superficie": "6618.8999",
         "mrc": "942 - Le Fjord-du-Saguenay",
         "lat_dms": "49.3578",
         "lon_dms": "-71.0489"
