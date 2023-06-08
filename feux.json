@@ -81,7 +81,7 @@
     },
     {
         "no_feu": "441",
-        "condition_feu": "4 - Contenu",
+        "condition_feu": "5 - Maîtrisé",
         "superficie": "0.2",
         "mrc": "76 - Argenteuil",
         "lat_dms": "45.8086",
@@ -145,7 +145,7 @@
     },
     {
         "no_feu": "424",
-        "condition_feu": "3 - Hors-Ctrl",
+        "condition_feu": "4 - Contenu",
         "superficie": "158.5",
         "mrc": "96 - Manicouagan",
         "lat_dms": "49.5353",
@@ -194,7 +194,7 @@
     {
         "no_feu": "412",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "1383",
+        "superficie": "424.39999",
         "mrc": "92 - Maria-Chapdelaine",
         "lat_dms": "49.1678",
         "lon_dms": "-71.8369"
@@ -202,7 +202,7 @@
     {
         "no_feu": "411",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "493.5",
+        "superficie": "448.39999",
         "mrc": "92 - Maria-Chapdelaine",
         "lat_dms": "49.2772",
         "lon_dms": "-71.8114"
@@ -225,7 +225,7 @@
     },
     {
         "no_feu": "405",
-        "condition_feu": "3 - Hors-Ctrl",
+        "condition_feu": "4 - Contenu",
         "superficie": "0",
         "mrc": "96 - Manicouagan",
         "lat_dms": "49.7608",
@@ -314,14 +314,14 @@
     {
         "no_feu": "386",
         "condition_feu": "4 - Contenu",
-        "superficie": "102",
+        "superficie": "101.1",
         "mrc": "96 - Manicouagan",
         "lat_dms": "49.5461",
         "lon_dms": "-67.6528"
     },
     {
         "no_feu": "385",
-        "condition_feu": "3 - Hors-Ctrl",
+        "condition_feu": "4 - Contenu",
         "superficie": "531.20001",
         "mrc": "96 - Manicouagan",
         "lat_dms": "49.7144",
@@ -345,7 +345,7 @@
     },
     {
         "no_feu": "381",
-        "condition_feu": "3 - Hors-Ctrl",
+        "condition_feu": "4 - Contenu",
         "superficie": "1027.1",
         "mrc": "95 - La Haute-Côte-Nord",
         "lat_dms": "48.4286",
@@ -377,7 +377,7 @@
     },
     {
         "no_feu": "375",
-        "condition_feu": "3 - Hors-Ctrl",
+        "condition_feu": "4 - Contenu",
         "superficie": "1881",
         "mrc": "96 - Manicouagan",
         "lat_dms": "49.5828",
@@ -569,15 +569,15 @@
     },
     {
         "no_feu": "329",
-        "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "0.1",
+        "condition_feu": "4 - Contenu",
+        "superficie": "7.0999999",
         "mrc": "942 - Le Fjord-du-Saguenay",
         "lat_dms": "48.8453",
         "lon_dms": "-70.4742"
     },
     {
         "no_feu": "326",
-        "condition_feu": "3 - Hors-Ctrl",
+        "condition_feu": "4 - Contenu",
         "superficie": "809.90002",
         "mrc": "95 - La Haute-Côte-Nord",
         "lat_dms": "49.66",
@@ -777,7 +777,7 @@
     },
     {
         "no_feu": "283",
-        "condition_feu": "3 - Hors-Ctrl",
+        "condition_feu": "4 - Contenu",
         "superficie": "9318.0996",
         "mrc": "96 - Manicouagan",
         "lat_dms": "49.5558",
@@ -837,7 +837,7 @@
         "superficie": "17.299999",
         "mrc": "83 - La Vallée-de-la-Gatineau",
         "lat_dms": "47.6158",
-        "lon_dms": "-75.7867"
+        "lon_dms": "-75.7881"
     },
     {
         "no_feu": "271",
@@ -849,8 +849,8 @@
     },
     {
         "no_feu": "270",
-        "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "3011",
+        "condition_feu": "4 - Contenu",
+        "superficie": "3045",
         "mrc": "96 - Manicouagan",
         "lat_dms": "49.7389",
         "lon_dms": "-68.6347"
@@ -881,7 +881,7 @@
     },
     {
         "no_feu": "261",
-        "condition_feu": "3 - Hors-Ctrl",
+        "condition_feu": "4 - Contenu",
         "superficie": "15431.9",
         "mrc": "95 - La Haute-Côte-Nord",
         "lat_dms": "49.5064",
