@@ -58,7 +58,7 @@
     {
         "no_feu": "445",
         "condition_feu": "4 - Contenu",
-        "superficie": "4",
+        "superficie": "3.8",
         "mrc": "90 - La Tuque",
         "lat_dms": "48.8586",
         "lon_dms": "-74.3608"
@@ -118,14 +118,6 @@
         "mrc": "95 - La Haute-Côte-Nord",
         "lat_dms": "49.3747",
         "lon_dms": "-69.7864"
-    },
-    {
-        "no_feu": "429",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "3.2",
-        "mrc": "88 - Abitibi",
-        "lat_dms": "48.7547",
-        "lon_dms": "-78.0683"
     },
     {
         "no_feu": "424",
@@ -522,7 +514,7 @@
     {
         "no_feu": "334",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "800007",
+        "superficie": "80802.898",
         "mrc": "991 - Jamésie",
         "lat_dms": "50.4528",
         "lon_dms": "-74.1314"
@@ -585,7 +577,7 @@
     },
     {
         "no_feu": "315",
-        "condition_feu": "4 - Contenu",
+        "condition_feu": "5 - Maîtrisé",
         "superficie": "0.5",
         "mrc": "88 - Abitibi",
         "lat_dms": "48.8014",
