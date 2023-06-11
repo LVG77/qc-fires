@@ -57,8 +57,8 @@
     },
     {
         "no_feu": "445",
-        "condition_feu": "4 - Contenu",
-        "superficie": "3.8",
+        "condition_feu": "5 - Maîtrisé",
+        "superficie": "3.9000001",
         "mrc": "90 - La Tuque",
         "lat_dms": "48.8586",
         "lon_dms": "-74.3608"
@@ -121,8 +121,8 @@
     },
     {
         "no_feu": "424",
-        "condition_feu": "4 - Contenu",
-        "superficie": "158.5",
+        "condition_feu": "5 - Maîtrisé",
+        "superficie": "300",
         "mrc": "96 - Manicouagan",
         "lat_dms": "49.5353",
         "lon_dms": "-68.5503"
@@ -185,7 +185,7 @@
     },
     {
         "no_feu": "408",
-        "condition_feu": "3 - Hors-Ctrl",
+        "condition_feu": "4 - Contenu",
         "superficie": "1154.5",
         "mrc": "92 - Maria-Chapdelaine",
         "lat_dms": "49.6006",
@@ -209,7 +209,7 @@
     },
     {
         "no_feu": "403",
-        "condition_feu": "3 - Hors-Ctrl",
+        "condition_feu": "4 - Contenu",
         "superficie": "56.5",
         "mrc": "89 - La Vallée-de-l'Or",
         "lat_dms": "47.7744",
@@ -226,10 +226,10 @@
     {
         "no_feu": "394",
         "condition_feu": "4 - Contenu",
-        "superficie": "111.3",
+        "superficie": "64.900002",
         "mrc": "84 - Pontiac",
-        "lat_dms": "46.2261",
-        "lon_dms": "-76.4611"
+        "lat_dms": "46.2269",
+        "lon_dms": "-76.4597"
     },
     {
         "no_feu": "393",
@@ -281,8 +281,8 @@
     },
     {
         "no_feu": "383",
-        "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "0",
+        "condition_feu": "4 - Contenu",
+        "superficie": "-0.1",
         "mrc": "92 - Maria-Chapdelaine",
         "lat_dms": "49.3883",
         "lon_dms": "-71.9906"
@@ -336,14 +336,6 @@
         "lon_dms": "-68.4406"
     },
     {
-        "no_feu": "374",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "32.200001",
-        "mrc": "35 - Mékinac",
-        "lat_dms": "47.2933",
-        "lon_dms": "-73.6189"
-    },
-    {
         "no_feu": "373",
         "condition_feu": "3 - Hors-Ctrl",
         "superficie": "3695.8999",
@@ -393,7 +385,7 @@
     },
     {
         "no_feu": "361",
-        "condition_feu": "3 - Hors-Ctrl",
+        "condition_feu": "4 - Contenu",
         "superficie": "1441.9",
         "mrc": "35 - Mékinac",
         "lat_dms": "47.1303",
@@ -409,7 +401,7 @@
     },
     {
         "no_feu": "359",
-        "condition_feu": "3 - Hors-Ctrl",
+        "condition_feu": "4 - Contenu",
         "superficie": "460",
         "mrc": "35 - Mékinac",
         "lat_dms": "46.9411",
@@ -449,7 +441,7 @@
     },
     {
         "no_feu": "346",
-        "condition_feu": "4 - Contenu",
+        "condition_feu": "5 - Maîtrisé",
         "superficie": "121",
         "mrc": "84 - Pontiac",
         "lat_dms": "46.8397",
@@ -498,14 +490,14 @@
     {
         "no_feu": "334",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "80802.898",
+        "superficie": "96233.602",
         "mrc": "991 - Jamésie",
         "lat_dms": "50.4528",
         "lon_dms": "-74.1314"
     },
     {
         "no_feu": "329",
-        "condition_feu": "4 - Contenu",
+        "condition_feu": "5 - Maîtrisé",
         "superficie": "7.0999999",
         "mrc": "942 - Le Fjord-du-Saguenay",
         "lat_dms": "48.8453",
@@ -553,19 +545,11 @@
     },
     {
         "no_feu": "318",
-        "condition_feu": "4 - Contenu",
+        "condition_feu": "5 - Maîtrisé",
         "superficie": "7.1999998",
         "mrc": "91 - Le Domaine-du-Roy",
         "lat_dms": "48.4769",
         "lon_dms": "-73.6614"
-    },
-    {
-        "no_feu": "315",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "3.5",
-        "mrc": "88 - Abitibi",
-        "lat_dms": "48.8014",
-        "lon_dms": "-77.2322"
     },
     {
         "no_feu": "314",
@@ -577,7 +561,7 @@
     },
     {
         "no_feu": "308",
-        "condition_feu": "3 - Hors-Ctrl",
+        "condition_feu": "4 - Contenu",
         "superficie": "338.39999",
         "mrc": "35 - Mékinac",
         "lat_dms": "47.0047",
@@ -593,7 +577,7 @@
     },
     {
         "no_feu": "305",
-        "condition_feu": "3 - Hors-Ctrl",
+        "condition_feu": "4 - Contenu",
         "superficie": "26.5",
         "mrc": "92 - Maria-Chapdelaine",
         "lat_dms": "49.7236",
@@ -641,7 +625,7 @@
     },
     {
         "no_feu": "295",
-        "condition_feu": "3 - Hors-Ctrl",
+        "condition_feu": "4 - Contenu",
         "superficie": "980.90002",
         "mrc": "92 - Maria-Chapdelaine",
         "lat_dms": "49.6947",
@@ -689,8 +673,8 @@
     },
     {
         "no_feu": "287",
-        "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "2900",
+        "condition_feu": "4 - Contenu",
+        "superficie": "237.3",
         "mrc": "92 - Maria-Chapdelaine",
         "lat_dms": "49.4581",
         "lon_dms": "-72.5764"
@@ -729,11 +713,11 @@
     },
     {
         "no_feu": "277",
-        "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "3525.2",
+        "condition_feu": "4 - Contenu",
+        "superficie": "3276.6001",
         "mrc": "92 - Maria-Chapdelaine",
-        "lat_dms": "49.5208",
-        "lon_dms": "-72.6058"
+        "lat_dms": "49.5189",
+        "lon_dms": "-72.6156"
     },
     {
         "no_feu": "275",
@@ -818,7 +802,7 @@
     {
         "no_feu": "251",
         "condition_feu": "4 - Contenu",
-        "superficie": "59",
+        "superficie": "59.400002",
         "mrc": "88 - Abitibi",
         "lat_dms": "48.8069",
         "lon_dms": "-77.3006"
@@ -912,16 +896,8 @@
         "lon_dms": "-75.9378"
     },
     {
-        "no_feu": "230",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "13.7",
-        "mrc": "35 - Mékinac",
-        "lat_dms": "46.8311",
-        "lon_dms": "-72.7317"
-    },
-    {
         "no_feu": "229",
-        "condition_feu": "3 - Hors-Ctrl",
+        "condition_feu": "4 - Contenu",
         "superficie": "206.5",
         "mrc": "90 - La Tuque",
         "lat_dms": "47.6956",
