@@ -1,8 +1,8 @@
 [
     {
         "no_feu": "467",
-        "condition_feu": "1 - Nouveau",
-        "superficie": "10",
+        "condition_feu": "4 - Contenu",
+        "superficie": "20",
         "mrc": "991 - Jamésie",
         "lat_dms": "50.7289",
         "lon_dms": "-76.2622"
