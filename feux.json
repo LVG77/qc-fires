@@ -2,7 +2,7 @@
     {
         "no_feu": "471",
         "condition_feu": "4 - Contenu",
-        "superficie": "9.1999998",
+        "superficie": "9.3999996",
         "mrc": "83 - La Vallée-de-la-Gatineau",
         "lat_dms": "47.5978",
         "lon_dms": "-76.1561"
@@ -58,7 +58,7 @@
     {
         "no_feu": "451",
         "condition_feu": "4 - Contenu",
-        "superficie": "395.79999",
+        "superficie": "447.70001",
         "mrc": "92 - Maria-Chapdelaine",
         "lat_dms": "49.7681",
         "lon_dms": "-73.3861"
@@ -290,7 +290,7 @@
     {
         "no_feu": "379",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "17692.6",
+        "superficie": "18522.199",
         "mrc": "92 - Maria-Chapdelaine",
         "lat_dms": "50.1667",
         "lon_dms": "-73.4733"
@@ -502,14 +502,6 @@
         "mrc": "90 - La Tuque",
         "lat_dms": "48.7861",
         "lon_dms": "-74.2297"
-    },
-    {
-        "no_feu": "318",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "5.9000001",
-        "mrc": "91 - Le Domaine-du-Roy",
-        "lat_dms": "48.4769",
-        "lon_dms": "-73.6614"
     },
     {
         "no_feu": "314",
