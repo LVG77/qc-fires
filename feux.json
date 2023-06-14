@@ -66,7 +66,7 @@
     {
         "no_feu": "453",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "8500.5996",
+        "superficie": "10809",
         "mrc": "92 - Maria-Chapdelaine",
         "lat_dms": "50.7172",
         "lon_dms": "-72.555"
@@ -242,7 +242,7 @@
     {
         "no_feu": "394",
         "condition_feu": "5 - Maîtrisé",
-        "superficie": "109.8",
+        "superficie": "73.699997",
         "mrc": "84 - Pontiac",
         "lat_dms": "46.2269",
         "lon_dms": "-76.4597"
@@ -337,7 +337,7 @@
     },
     {
         "no_feu": "372",
-        "condition_feu": "3 - Hors-Ctrl",
+        "condition_feu": "4 - Contenu",
         "superficie": "2483",
         "mrc": "90 - La Tuque",
         "lat_dms": "48.7817",
@@ -818,7 +818,7 @@
     {
         "no_feu": "233",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "4950",
+        "superficie": "4933.7002",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.4347",
         "lon_dms": "-77.2211"
