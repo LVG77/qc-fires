@@ -1,8 +1,16 @@
 [
     {
+        "no_feu": "481",
+        "condition_feu": "1 - Nouveau",
+        "superficie": "0",
+        "mrc": "991 - Jamésie",
+        "lat_dms": "49.0325",
+        "lon_dms": "-75.3522"
+    },
+    {
         "no_feu": "475",
-        "condition_feu": "4 - Contenu",
-        "superficie": "4",
+        "condition_feu": "5 - Maîtrisé",
+        "superficie": "8.8999996",
         "mrc": "92 - Maria-Chapdelaine",
         "lat_dms": "49.2469",
         "lon_dms": "-72.8319"
@@ -10,7 +18,7 @@
     {
         "no_feu": "473",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "25",
+        "superficie": "1947.1",
         "mrc": "991 - Jamésie",
         "lat_dms": "50.5739",
         "lon_dms": "-75.0111"
@@ -26,7 +34,7 @@
     {
         "no_feu": "467",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "564",
+        "superficie": "7321.7002",
         "mrc": "991 - Jamésie",
         "lat_dms": "50.7289",
         "lon_dms": "-76.2622"
@@ -42,7 +50,7 @@
     {
         "no_feu": "462",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "14770",
+        "superficie": "15466.1",
         "mrc": "92 - Maria-Chapdelaine",
         "lat_dms": "50.6786",
         "lon_dms": "-72.8358"
@@ -82,7 +90,7 @@
     {
         "no_feu": "450",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "11692.9",
+        "superficie": "17121.1",
         "mrc": "92 - Maria-Chapdelaine",
         "lat_dms": "50.6519",
         "lon_dms": "-73.1058"
@@ -90,7 +98,7 @@
     {
         "no_feu": "449",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "7092.7998",
+        "superficie": "10911",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.2592",
         "lon_dms": "-74.985"
@@ -110,14 +118,6 @@
         "mrc": "91 - Le Domaine-du-Roy",
         "lat_dms": "48.9",
         "lon_dms": "-74.3525"
-    },
-    {
-        "no_feu": "442",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "2.4000001",
-        "mrc": "91 - Le Domaine-du-Roy",
-        "lat_dms": "48.8803",
-        "lon_dms": "-74.3539"
     },
     {
         "no_feu": "439",
@@ -161,8 +161,8 @@
     },
     {
         "no_feu": "422",
-        "condition_feu": "4 - Contenu",
-        "superficie": "267.79999",
+        "condition_feu": "5 - Maîtrisé",
+        "superficie": "267",
         "mrc": "90 - La Tuque",
         "lat_dms": "48.4681",
         "lon_dms": "-73.7981"
@@ -222,14 +222,6 @@
         "mrc": "92 - Maria-Chapdelaine",
         "lat_dms": "49.6006",
         "lon_dms": "-71.6014"
-    },
-    {
-        "no_feu": "405",
-        "condition_feu": "4 - Contenu",
-        "superficie": "0",
-        "mrc": "96 - Manicouagan",
-        "lat_dms": "49.7608",
-        "lon_dms": "-69.0528"
     },
     {
         "no_feu": "404",
@@ -298,23 +290,15 @@
     {
         "no_feu": "379",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "40108.398",
+        "superficie": "47244.5",
         "mrc": "92 - Maria-Chapdelaine",
         "lat_dms": "50.1667",
         "lon_dms": "-73.4733"
     },
     {
-        "no_feu": "377",
-        "condition_feu": "4 - Contenu",
-        "superficie": "5.1999998",
-        "mrc": "85 - Témiscamingue",
-        "lat_dms": "47.5925",
-        "lon_dms": "-77.9694"
-    },
-    {
         "no_feu": "376",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "26968.301",
+        "superficie": "32841",
         "mrc": "89 - La Vallée-de-l'Or",
         "lat_dms": "48.9044",
         "lon_dms": "-75.8253"
@@ -354,7 +338,7 @@
     {
         "no_feu": "369",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "9529.2998",
+        "superficie": "10730",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.1686",
         "lon_dms": "-75.6703"
@@ -466,7 +450,7 @@
     {
         "no_feu": "334",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "137885.59",
+        "superficie": "141590.09",
         "mrc": "991 - Jamésie",
         "lat_dms": "50.4528",
         "lon_dms": "-74.1314"
@@ -506,7 +490,7 @@
     {
         "no_feu": "314",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "14736.8",
+        "superficie": "26355",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.5558",
         "lon_dms": "-76.7642"
@@ -548,8 +532,8 @@
         "condition_feu": "4 - Contenu",
         "superficie": "2659.8999",
         "mrc": "90 - La Tuque",
-        "lat_dms": "48.7064",
-        "lon_dms": "-74.1272"
+        "lat_dms": "48.7011",
+        "lon_dms": "-74.1394"
     },
     {
         "no_feu": "300",
@@ -601,19 +585,11 @@
     },
     {
         "no_feu": "290",
-        "condition_feu": "4 - Contenu",
+        "condition_feu": "5 - Maîtrisé",
         "superficie": "234.89999",
         "mrc": "92 - Maria-Chapdelaine",
         "lat_dms": "49.3803",
         "lon_dms": "-72.4919"
-    },
-    {
-        "no_feu": "289",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "16.9",
-        "mrc": "991 - Jamésie",
-        "lat_dms": "49.4267",
-        "lon_dms": "-76.5142"
     },
     {
         "no_feu": "287",
@@ -720,14 +696,6 @@
         "lon_dms": "-71.5572"
     },
     {
-        "no_feu": "262",
-        "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "2913",
-        "mrc": "89 - La Vallée-de-l'Or",
-        "lat_dms": "48.815",
-        "lon_dms": "-76.0342"
-    },
-    {
         "no_feu": "261",
         "condition_feu": "4 - Contenu",
         "superficie": "15431.9",
@@ -770,7 +738,7 @@
     {
         "no_feu": "245",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "4247.3999",
+        "superficie": "4802.8999",
         "mrc": "89 - La Vallée-de-l'Or",
         "lat_dms": "48.4708",
         "lon_dms": "-76.8569"
@@ -794,7 +762,7 @@
     {
         "no_feu": "237",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "16562.4",
+        "superficie": "17833.4",
         "mrc": "89 - La Vallée-de-l'Or",
         "lat_dms": "48.6086",
         "lon_dms": "-76.6356"
