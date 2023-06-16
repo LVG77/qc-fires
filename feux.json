@@ -57,7 +57,7 @@
     },
     {
         "no_feu": "462",
-        "condition_feu": "3 - Hors-Ctrl",
+        "condition_feu": "4 - Contenu",
         "superficie": "15466.1",
         "mrc": "92 - Maria-Chapdelaine",
         "lat_dms": "50.6786",
@@ -73,7 +73,7 @@
     },
     {
         "no_feu": "454",
-        "condition_feu": "3 - Hors-Ctrl",
+        "condition_feu": "4 - Contenu",
         "superficie": "2649.7",
         "mrc": "92 - Maria-Chapdelaine",
         "lat_dms": "50.3847",
@@ -81,7 +81,7 @@
     },
     {
         "no_feu": "453",
-        "condition_feu": "3 - Hors-Ctrl",
+        "condition_feu": "4 - Contenu",
         "superficie": "10809",
         "mrc": "92 - Maria-Chapdelaine",
         "lat_dms": "50.7172",
@@ -97,7 +97,7 @@
     },
     {
         "no_feu": "450",
-        "condition_feu": "3 - Hors-Ctrl",
+        "condition_feu": "4 - Contenu",
         "superficie": "17121.1",
         "mrc": "92 - Maria-Chapdelaine",
         "lat_dms": "50.6519",
@@ -598,14 +598,6 @@
         "mrc": "92 - Maria-Chapdelaine",
         "lat_dms": "49.4581",
         "lon_dms": "-72.5764"
-    },
-    {
-        "no_feu": "286",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "5.3000002",
-        "mrc": "96 - Manicouagan",
-        "lat_dms": "49.3461",
-        "lon_dms": "-67.9683"
     },
     {
         "no_feu": "283",
