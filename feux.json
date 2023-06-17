@@ -1,13 +1,5 @@
 [
     {
-        "no_feu": "482",
-        "condition_feu": "4 - Contenu",
-        "superficie": "0.5",
-        "mrc": "991 - Jamésie",
-        "lat_dms": "49.7897",
-        "lon_dms": "-74.5431"
-    },
-    {
         "no_feu": "481",
         "condition_feu": "4 - Contenu",
         "superficie": "0",
@@ -30,14 +22,6 @@
         "mrc": "991 - Jamésie",
         "lat_dms": "50.5739",
         "lon_dms": "-75.0111"
-    },
-    {
-        "no_feu": "471",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "9.3999996",
-        "mrc": "83 - La Vallée-de-la-Gatineau",
-        "lat_dms": "47.5978",
-        "lon_dms": "-76.1561"
     },
     {
         "no_feu": "467",
@@ -106,7 +90,7 @@
     {
         "no_feu": "449",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "10911",
+        "superficie": "26513.6",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.2592",
         "lon_dms": "-74.985"
@@ -314,7 +298,7 @@
     {
         "no_feu": "373",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "10387.9",
+        "superficie": "12868.6",
         "mrc": "90 - La Tuque",
         "lat_dms": "48.8433",
         "lon_dms": "-75.1025"
@@ -322,7 +306,7 @@
     {
         "no_feu": "372",
         "condition_feu": "4 - Contenu",
-        "superficie": "2483",
+        "superficie": "2873.3999",
         "mrc": "90 - La Tuque",
         "lat_dms": "48.7817",
         "lon_dms": "-75.2447"
@@ -353,7 +337,7 @@
     },
     {
         "no_feu": "361",
-        "condition_feu": "4 - Contenu",
+        "condition_feu": "5 - Maîtrisé",
         "superficie": "1441.9",
         "mrc": "35 - Mékinac",
         "lat_dms": "47.1303",
@@ -418,7 +402,7 @@
     {
         "no_feu": "344",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "145361.91",
+        "superficie": "146396",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.1222",
         "lon_dms": "-76.7867"
@@ -473,7 +457,7 @@
     },
     {
         "no_feu": "325",
-        "condition_feu": "4 - Contenu",
+        "condition_feu": "5 - Maîtrisé",
         "superficie": "1.6",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.3711",
@@ -702,14 +686,6 @@
         "mrc": "991 - Jamésie",
         "lat_dms": "49.3014",
         "lon_dms": "-76.9186"
-    },
-    {
-        "no_feu": "251",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "59.400002",
-        "mrc": "88 - Abitibi",
-        "lat_dms": "48.8069",
-        "lon_dms": "-77.3006"
     },
     {
         "no_feu": "249",
