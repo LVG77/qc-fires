@@ -2,7 +2,7 @@
     {
         "no_feu": "481",
         "condition_feu": "4 - Contenu",
-        "superficie": "0",
+        "superficie": "7.5",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.0325",
         "lon_dms": "-75.3522"
@@ -26,7 +26,7 @@
     {
         "no_feu": "467",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "7321.7002",
+        "superficie": "17995",
         "mrc": "991 - Jamésie",
         "lat_dms": "50.7289",
         "lon_dms": "-76.2622"
@@ -96,14 +96,6 @@
         "lon_dms": "-74.985"
     },
     {
-        "no_feu": "443",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "24",
-        "mrc": "91 - Le Domaine-du-Roy",
-        "lat_dms": "48.9",
-        "lon_dms": "-74.3525"
-    },
-    {
         "no_feu": "439",
         "condition_feu": "4 - Contenu",
         "superficie": "64.800003",
@@ -150,14 +142,6 @@
         "mrc": "90 - La Tuque",
         "lat_dms": "48.4681",
         "lon_dms": "-73.7981"
-    },
-    {
-        "no_feu": "421",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "29.5",
-        "mrc": "90 - La Tuque",
-        "lat_dms": "48.6375",
-        "lon_dms": "-74.0275"
     },
     {
         "no_feu": "418",
@@ -240,14 +224,6 @@
         "lon_dms": "-75.8644"
     },
     {
-        "no_feu": "386",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "101.1",
-        "mrc": "96 - Manicouagan",
-        "lat_dms": "49.5461",
-        "lon_dms": "-67.6528"
-    },
-    {
         "no_feu": "385",
         "condition_feu": "4 - Contenu",
         "superficie": "531.20001",
@@ -293,7 +269,7 @@
         "superficie": "1883.1",
         "mrc": "96 - Manicouagan",
         "lat_dms": "49.5828",
-        "lon_dms": "-68.4406"
+        "lon_dms": "-68.4461"
     },
     {
         "no_feu": "373",
@@ -402,7 +378,7 @@
     {
         "no_feu": "344",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "146396",
+        "superficie": "623017.19",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.1222",
         "lon_dms": "-76.7867"
@@ -456,14 +432,6 @@
         "lon_dms": "-69.9722"
     },
     {
-        "no_feu": "325",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "1.6",
-        "mrc": "991 - Jamésie",
-        "lat_dms": "49.3711",
-        "lon_dms": "-77.0447"
-    },
-    {
         "no_feu": "319",
         "condition_feu": "4 - Contenu",
         "superficie": "438.20001",
@@ -474,7 +442,7 @@
     {
         "no_feu": "314",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "26355",
+        "superficie": "47576.199",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.5558",
         "lon_dms": "-76.7642"
