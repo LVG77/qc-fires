@@ -32,14 +32,6 @@
         "lon_dms": "-76.2622"
     },
     {
-        "no_feu": "466",
-        "condition_feu": "4 - Contenu",
-        "superficie": "3",
-        "mrc": "991 - Jamésie",
-        "lat_dms": "50.5272",
-        "lon_dms": "-74.6653"
-    },
-    {
         "no_feu": "462",
         "condition_feu": "4 - Contenu",
         "superficie": "15466.1",
@@ -142,14 +134,6 @@
         "mrc": "90 - La Tuque",
         "lat_dms": "48.4681",
         "lon_dms": "-73.7981"
-    },
-    {
-        "no_feu": "416",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "7.5999999",
-        "mrc": "95 - La Haute-Côte-Nord",
-        "lat_dms": "48.7414",
-        "lon_dms": "-69.9836"
     },
     {
         "no_feu": "412",
@@ -282,7 +266,7 @@
     {
         "no_feu": "369",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "10730",
+        "superficie": "11358.8",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.1686",
         "lon_dms": "-75.6703"
@@ -314,7 +298,7 @@
     {
         "no_feu": "359",
         "condition_feu": "4 - Contenu",
-        "superficie": "460",
+        "superficie": "477.20001",
         "mrc": "35 - Mékinac",
         "lat_dms": "46.9411",
         "lon_dms": "-73.3522"
@@ -362,7 +346,7 @@
     {
         "no_feu": "344",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "623017.19",
+        "superficie": "332499.09",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.1222",
         "lon_dms": "-76.7867"
@@ -370,7 +354,7 @@
     {
         "no_feu": "339",
         "condition_feu": "4 - Contenu",
-        "superficie": "2083.1001",
+        "superficie": "2339.5",
         "mrc": "90 - La Tuque",
         "lat_dms": "48.4889",
         "lon_dms": "-74.8294"
@@ -400,14 +384,6 @@
         "lon_dms": "-74.1314"
     },
     {
-        "no_feu": "329",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "7.0999999",
-        "mrc": "942 - Le Fjord-du-Saguenay",
-        "lat_dms": "48.8453",
-        "lon_dms": "-70.4742"
-    },
-    {
         "no_feu": "326",
         "condition_feu": "4 - Contenu",
         "superficie": "809.90002",
@@ -417,7 +393,7 @@
     },
     {
         "no_feu": "319",
-        "condition_feu": "4 - Contenu",
+        "condition_feu": "5 - Maîtrisé",
         "superficie": "438.20001",
         "mrc": "90 - La Tuque",
         "lat_dms": "48.7861",
@@ -434,7 +410,7 @@
     {
         "no_feu": "308",
         "condition_feu": "4 - Contenu",
-        "superficie": "338.39999",
+        "superficie": "411.29999",
         "mrc": "35 - Mékinac",
         "lat_dms": "47.0047",
         "lon_dms": "-73.4128"
@@ -462,14 +438,6 @@
         "mrc": "90 - La Tuque",
         "lat_dms": "48.7011",
         "lon_dms": "-74.1394"
-    },
-    {
-        "no_feu": "300",
-        "condition_feu": "4 - Contenu",
-        "superficie": "0",
-        "mrc": "991 - Jamésie",
-        "lat_dms": "50.5272",
-        "lon_dms": "-74.6653"
     },
     {
         "no_feu": "299",
@@ -626,7 +594,7 @@
     {
         "no_feu": "249",
         "condition_feu": "4 - Contenu",
-        "superficie": "8705.4004",
+        "superficie": "6645.7002",
         "mrc": "942 - Le Fjord-du-Saguenay",
         "lat_dms": "49.3578",
         "lon_dms": "-71.0489"
@@ -658,7 +626,7 @@
     {
         "no_feu": "237",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "17833.4",
+        "superficie": "16317.5",
         "mrc": "89 - La Vallée-de-l'Or",
         "lat_dms": "48.6086",
         "lon_dms": "-76.6356"
