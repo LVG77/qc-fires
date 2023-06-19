@@ -369,7 +369,7 @@
     },
     {
         "no_feu": "337",
-        "condition_feu": "4 - Contenu",
+        "condition_feu": "5 - Maîtrisé",
         "superficie": "805.09998",
         "mrc": "84 - Pontiac",
         "lat_dms": "46.5953",
@@ -506,7 +506,7 @@
     {
         "no_feu": "281",
         "condition_feu": "4 - Contenu",
-        "superficie": "8493.5",
+        "superficie": "8819",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.0622",
         "lon_dms": "-79.3578"
