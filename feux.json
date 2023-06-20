@@ -1,5 +1,13 @@
 [
     {
+        "no_feu": "486",
+        "condition_feu": "4 - Contenu",
+        "superficie": "0",
+        "mrc": "89 - La Vallée-de-l'Or",
+        "lat_dms": "48.0942",
+        "lon_dms": "-77.7661"
+    },
+    {
         "no_feu": "481",
         "condition_feu": "4 - Contenu",
         "superficie": "7.5",
@@ -218,7 +226,7 @@
     {
         "no_feu": "379",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "36300.5",
+        "superficie": "36547.699",
         "mrc": "92 - Maria-Chapdelaine",
         "lat_dms": "50.1667",
         "lon_dms": "-73.4733"
