@@ -234,7 +234,7 @@
     {
         "no_feu": "373",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "12868.6",
+        "superficie": "14666",
         "mrc": "90 - La Tuque",
         "lat_dms": "48.8433",
         "lon_dms": "-75.1025"
@@ -594,7 +594,7 @@
     {
         "no_feu": "245",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "4802.8999",
+        "superficie": "4707.3999",
         "mrc": "89 - La Vallée-de-l'Or",
         "lat_dms": "48.4708",
         "lon_dms": "-76.8569"
@@ -610,7 +610,7 @@
     {
         "no_feu": "237",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "16317.5",
+        "superficie": "17346.1",
         "mrc": "89 - La Vallée-de-l'Or",
         "lat_dms": "48.6086",
         "lon_dms": "-76.6356"
