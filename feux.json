@@ -1,13 +1,5 @@
 [
     {
-        "no_feu": "486",
-        "condition_feu": "4 - Contenu",
-        "superficie": "0",
-        "mrc": "89 - La Vallée-de-l'Or",
-        "lat_dms": "48.0942",
-        "lon_dms": "-77.7661"
-    },
-    {
         "no_feu": "481",
         "condition_feu": "4 - Contenu",
         "superficie": "7.5",
@@ -193,7 +185,7 @@
     },
     {
         "no_feu": "388",
-        "condition_feu": "4 - Contenu",
+        "condition_feu": "5 - Maîtrisé",
         "superficie": "80",
         "mrc": "89 - La Vallée-de-l'Or",
         "lat_dms": "48.0128",
@@ -449,7 +441,7 @@
     },
     {
         "no_feu": "297",
-        "condition_feu": "4 - Contenu",
+        "condition_feu": "3 - Hors-Ctrl",
         "superficie": "19506",
         "mrc": "89 - La Vallée-de-l'Or",
         "lat_dms": "48.1811",
@@ -497,8 +489,8 @@
     },
     {
         "no_feu": "281",
-        "condition_feu": "4 - Contenu",
-        "superficie": "8781.2998",
+        "condition_feu": "3 - Hors-Ctrl",
+        "superficie": "8805.2002",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.0622",
         "lon_dms": "-79.3578"
