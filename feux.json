@@ -1,5 +1,13 @@
 [
     {
+        "no_feu": "518",
+        "condition_feu": "5 - Maîtrisé",
+        "superficie": "0.1",
+        "mrc": "96 - Manicouagan",
+        "lat_dms": "49.1903",
+        "lon_dms": "-68.2378"
+    },
+    {
         "no_feu": "514",
         "condition_feu": "1 - Nouveau",
         "superficie": "0",
@@ -81,8 +89,8 @@
     },
     {
         "no_feu": "450",
-        "condition_feu": "4 - Contenu",
-        "superficie": "20672.4",
+        "condition_feu": "3 - Hors-Ctrl",
+        "superficie": "21692.6",
         "mrc": "92 - Maria-Chapdelaine",
         "lat_dms": "50.6519",
         "lon_dms": "-73.1058"
@@ -210,7 +218,7 @@
     {
         "no_feu": "373",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "17699.9",
+        "superficie": "19182.5",
         "mrc": "90 - La Tuque",
         "lat_dms": "48.8433",
         "lon_dms": "-75.1025"
