@@ -545,7 +545,7 @@
     },
     {
         "no_feu": "248",
-        "condition_feu": "4 - Contenu",
+        "condition_feu": "3 - Hors-Ctrl",
         "superficie": "8583.5996",
         "mrc": "89 - La Vallée-de-l'Or",
         "lat_dms": "47.9144",
