@@ -288,14 +288,6 @@
         "lon_dms": "-70.0192"
     },
     {
-        "no_feu": "352",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "390",
-        "mrc": "92 - Maria-Chapdelaine",
-        "lat_dms": "49.1883",
-        "lon_dms": "-72.0819"
-    },
-    {
         "no_feu": "351",
         "condition_feu": "3 - Hors-Ctrl",
         "superficie": "6459",
