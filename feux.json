@@ -1,11 +1,11 @@
 [
     {
-        "no_feu": "522",
-        "condition_feu": "1 - Nouveau",
-        "superficie": "0",
-        "mrc": "62 - Matawinie",
-        "lat_dms": "46.8747",
-        "lon_dms": "-73.8878"
+        "no_feu": "523",
+        "condition_feu": "4 - Contenu",
+        "superficie": "4.5",
+        "mrc": "96 - Manicouagan",
+        "lat_dms": "49.8369",
+        "lon_dms": "-68.2511"
     },
     {
         "no_feu": "519",
@@ -22,14 +22,6 @@
         "mrc": "991 - Jamésie",
         "lat_dms": "49.3658",
         "lon_dms": "-74.9711"
-    },
-    {
-        "no_feu": "513",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "0",
-        "mrc": "83 - La Vallée-de-la-Gatineau",
-        "lat_dms": "46.0108",
-        "lon_dms": "-75.8139"
     },
     {
         "no_feu": "496",
@@ -226,7 +218,7 @@
     {
         "no_feu": "373",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "19182.5",
+        "superficie": "24590.301",
         "mrc": "90 - La Tuque",
         "lat_dms": "48.8433",
         "lon_dms": "-75.1025"
@@ -354,7 +346,7 @@
     {
         "no_feu": "334",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "184471.09",
+        "superficie": "186015.7",
         "mrc": "991 - Jamésie",
         "lat_dms": "50.4528",
         "lon_dms": "-74.1314"
@@ -370,14 +362,14 @@
     {
         "no_feu": "314",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "47576.199",
+        "superficie": "118603",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.5558",
         "lon_dms": "-76.7642"
     },
     {
         "no_feu": "308",
-        "condition_feu": "4 - Contenu",
+        "condition_feu": "5 - Maîtrisé",
         "superficie": "411.29999",
         "mrc": "35 - Mékinac",
         "lat_dms": "47.0047",
@@ -582,22 +574,6 @@
         "mrc": "92 - Maria-Chapdelaine",
         "lat_dms": "49.3775",
         "lon_dms": "-72.0669"
-    },
-    {
-        "no_feu": "235",
-        "condition_feu": "4 - Contenu",
-        "superficie": "10.9",
-        "mrc": "991 - Jamésie",
-        "lat_dms": "49.3883",
-        "lon_dms": "-77.0656"
-    },
-    {
-        "no_feu": "233",
-        "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "4933.7002",
-        "mrc": "991 - Jamésie",
-        "lat_dms": "49.4347",
-        "lon_dms": "-77.2211"
     },
     {
         "no_feu": "229",
