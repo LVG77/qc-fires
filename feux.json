@@ -40,14 +40,6 @@
         "lon_dms": "-75.3522"
     },
     {
-        "no_feu": "473",
-        "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "25302.5",
-        "mrc": "991 - Jamésie",
-        "lat_dms": "50.5739",
-        "lon_dms": "-75.0111"
-    },
-    {
         "no_feu": "467",
         "condition_feu": "3 - Hors-Ctrl",
         "superficie": "85100.5",
@@ -314,7 +306,7 @@
     {
         "no_feu": "344",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "443936.69",
+        "superficie": "447808.91",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.1222",
         "lon_dms": "-76.7867"
@@ -338,7 +330,7 @@
     {
         "no_feu": "334",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "186015.7",
+        "superficie": "245792.09",
         "mrc": "991 - Jamésie",
         "lat_dms": "50.4528",
         "lon_dms": "-74.1314"
@@ -554,7 +546,7 @@
     {
         "no_feu": "237",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "447808.91",
+        "superficie": "27496.6",
         "mrc": "89 - La Vallée-de-l'Or",
         "lat_dms": "48.6086",
         "lon_dms": "-76.6356"
