@@ -2,7 +2,7 @@
     {
         "no_feu": "523",
         "condition_feu": "4 - Contenu",
-        "superficie": "4.5",
+        "superficie": "1.8",
         "mrc": "96 - Manicouagan",
         "lat_dms": "49.8369",
         "lon_dms": "-68.2511"
@@ -177,7 +177,7 @@
     },
     {
         "no_feu": "385",
-        "condition_feu": "4 - Contenu",
+        "condition_feu": "5 - Maîtrisé",
         "superficie": "531.20001",
         "mrc": "96 - Manicouagan",
         "lat_dms": "49.7144",
@@ -192,20 +192,20 @@
         "lon_dms": "-76.1019"
     },
     {
-        "no_feu": "381",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "1027.1",
-        "mrc": "95 - La Haute-Côte-Nord",
-        "lat_dms": "48.4286",
-        "lon_dms": "-69.8294"
-    },
-    {
         "no_feu": "379",
         "condition_feu": "3 - Hors-Ctrl",
         "superficie": "58483.102",
         "mrc": "92 - Maria-Chapdelaine",
         "lat_dms": "50.1667",
         "lon_dms": "-73.4733"
+    },
+    {
+        "no_feu": "378",
+        "condition_feu": "5 - Maîtrisé",
+        "superficie": "6",
+        "mrc": "971 - Sept-Rivières",
+        "lat_dms": "50.4303",
+        "lon_dms": "-66.2133"
     },
     {
         "no_feu": "375",
@@ -433,8 +433,8 @@
     },
     {
         "no_feu": "283",
-        "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "11409.6",
+        "condition_feu": "4 - Contenu",
+        "superficie": "9423",
         "mrc": "96 - Manicouagan",
         "lat_dms": "49.5558",
         "lon_dms": "-68.6725"
@@ -554,7 +554,7 @@
     {
         "no_feu": "237",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "26517.5",
+        "superficie": "447808.91",
         "mrc": "89 - La Vallée-de-l'Or",
         "lat_dms": "48.6086",
         "lon_dms": "-76.6356"
@@ -590,14 +590,6 @@
         "mrc": "90 - La Tuque",
         "lat_dms": "48.0569",
         "lon_dms": "-75.2647"
-    },
-    {
-        "no_feu": "215",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "800.40002",
-        "mrc": "971 - Sept-Rivières",
-        "lat_dms": "50.3747",
-        "lon_dms": "-66.3844"
     },
     {
         "no_feu": "213",
