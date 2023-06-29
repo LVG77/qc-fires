@@ -1,8 +1,8 @@
 [
     {
         "no_feu": "523",
-        "condition_feu": "4 - Contenu",
-        "superficie": "1.8",
+        "condition_feu": "5 - Maîtrisé",
+        "superficie": "4.9000001",
         "mrc": "96 - Manicouagan",
         "lat_dms": "49.8369",
         "lon_dms": "-68.2511"
@@ -10,14 +10,14 @@
     {
         "no_feu": "519",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "550",
+        "superficie": "2176.3999",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.9167",
         "lon_dms": "-79.4"
     },
     {
         "no_feu": "514",
-        "condition_feu": "3 - Hors-Ctrl",
+        "condition_feu": "4 - Contenu",
         "superficie": "0",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.3658",
@@ -65,7 +65,7 @@
     },
     {
         "no_feu": "453",
-        "condition_feu": "3 - Hors-Ctrl",
+        "condition_feu": "4 - Contenu",
         "superficie": "14557.1",
         "mrc": "92 - Maria-Chapdelaine",
         "lat_dms": "50.7172",
@@ -73,7 +73,7 @@
     },
     {
         "no_feu": "451",
-        "condition_feu": "3 - Hors-Ctrl",
+        "condition_feu": "4 - Contenu",
         "superficie": "851.40002",
         "mrc": "92 - Maria-Chapdelaine",
         "lat_dms": "49.7681",
@@ -81,7 +81,7 @@
     },
     {
         "no_feu": "450",
-        "condition_feu": "3 - Hors-Ctrl",
+        "condition_feu": "4 - Contenu",
         "superficie": "21692.6",
         "mrc": "92 - Maria-Chapdelaine",
         "lat_dms": "50.6519",
@@ -89,7 +89,7 @@
     },
     {
         "no_feu": "449",
-        "condition_feu": "3 - Hors-Ctrl",
+        "condition_feu": "4 - Contenu",
         "superficie": "26513.6",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.2592",
@@ -105,7 +105,7 @@
     },
     {
         "no_feu": "433",
-        "condition_feu": "3 - Hors-Ctrl",
+        "condition_feu": "4 - Contenu",
         "superficie": "726.29999",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.0639",
@@ -113,7 +113,7 @@
     },
     {
         "no_feu": "431",
-        "condition_feu": "3 - Hors-Ctrl",
+        "condition_feu": "4 - Contenu",
         "superficie": "841.09998",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.0792",
@@ -126,14 +126,6 @@
         "mrc": "95 - La Haute-Côte-Nord",
         "lat_dms": "49.3747",
         "lon_dms": "-69.7864"
-    },
-    {
-        "no_feu": "424",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "158.5",
-        "mrc": "96 - Manicouagan",
-        "lat_dms": "49.5353",
-        "lon_dms": "-68.5503"
     },
     {
         "no_feu": "408",
@@ -194,7 +186,7 @@
     {
         "no_feu": "378",
         "condition_feu": "5 - Maîtrisé",
-        "superficie": "6",
+        "superficie": "9",
         "mrc": "971 - Sept-Rivières",
         "lat_dms": "50.4303",
         "lon_dms": "-66.2133"
@@ -202,14 +194,14 @@
     {
         "no_feu": "375",
         "condition_feu": "4 - Contenu",
-        "superficie": "1883.1",
+        "superficie": "1900.1",
         "mrc": "96 - Manicouagan",
         "lat_dms": "49.5828",
         "lon_dms": "-68.4461"
     },
     {
         "no_feu": "373",
-        "condition_feu": "3 - Hors-Ctrl",
+        "condition_feu": "4 - Contenu",
         "superficie": "24590.301",
         "mrc": "90 - La Tuque",
         "lat_dms": "48.8433",
@@ -217,7 +209,7 @@
     },
     {
         "no_feu": "372",
-        "condition_feu": "4 - Contenu",
+        "condition_feu": "5 - Maîtrisé",
         "superficie": "2873.3999",
         "mrc": "90 - La Tuque",
         "lat_dms": "48.7817",
@@ -225,7 +217,7 @@
     },
     {
         "no_feu": "370",
-        "condition_feu": "3 - Hors-Ctrl",
+        "condition_feu": "4 - Contenu",
         "superficie": "2934.1001",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.2325",
@@ -233,7 +225,7 @@
     },
     {
         "no_feu": "369",
-        "condition_feu": "3 - Hors-Ctrl",
+        "condition_feu": "4 - Contenu",
         "superficie": "20027.699",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.1686",
@@ -274,15 +266,15 @@
     {
         "no_feu": "353",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "11802.2",
+        "superficie": "17017",
         "mrc": "95 - La Haute-Côte-Nord",
         "lat_dms": "49.8558",
         "lon_dms": "-70.0192"
     },
     {
         "no_feu": "351",
-        "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "6459",
+        "condition_feu": "4 - Contenu",
+        "superficie": "7226.2998",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.1106",
         "lon_dms": "-74.62"
@@ -306,7 +298,7 @@
     {
         "no_feu": "344",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "447808.91",
+        "superficie": "481096.31",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.1222",
         "lon_dms": "-76.7867"
@@ -338,7 +330,7 @@
     {
         "no_feu": "326",
         "condition_feu": "4 - Contenu",
-        "superficie": "809.90002",
+        "superficie": "810",
         "mrc": "95 - La Haute-Côte-Nord",
         "lat_dms": "49.66",
         "lon_dms": "-69.9722"
@@ -346,7 +338,7 @@
     {
         "no_feu": "314",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "118603",
+        "superficie": "122803.8",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.5558",
         "lon_dms": "-76.7642"
@@ -416,25 +408,17 @@
         "lon_dms": "-69.5892"
     },
     {
-        "no_feu": "287",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "3009.1001",
-        "mrc": "92 - Maria-Chapdelaine",
-        "lat_dms": "49.4581",
-        "lon_dms": "-72.5764"
-    },
-    {
         "no_feu": "283",
         "condition_feu": "4 - Contenu",
-        "superficie": "9423",
+        "superficie": "11409.6",
         "mrc": "96 - Manicouagan",
         "lat_dms": "49.5558",
         "lon_dms": "-68.6725"
     },
     {
         "no_feu": "281",
-        "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "10630",
+        "condition_feu": "4 - Contenu",
+        "superficie": "11203.3",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.0622",
         "lon_dms": "-79.3578"
@@ -457,7 +441,7 @@
     },
     {
         "no_feu": "274",
-        "condition_feu": "3 - Hors-Ctrl",
+        "condition_feu": "4 - Contenu",
         "superficie": "42457.602",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.5083",
@@ -506,7 +490,7 @@
     {
         "no_feu": "256",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "6908.2998",
+        "superficie": "7918.3999",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.3014",
         "lon_dms": "-76.9186"
@@ -521,7 +505,7 @@
     },
     {
         "no_feu": "248",
-        "condition_feu": "3 - Hors-Ctrl",
+        "condition_feu": "4 - Contenu",
         "superficie": "8583.5996",
         "mrc": "89 - La Vallée-de-l'Or",
         "lat_dms": "47.9144",
@@ -530,7 +514,7 @@
     {
         "no_feu": "245",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "5565.5",
+        "superficie": "9462.4004",
         "mrc": "89 - La Vallée-de-l'Or",
         "lat_dms": "48.4708",
         "lon_dms": "-76.8569"
@@ -553,7 +537,7 @@
     },
     {
         "no_feu": "236",
-        "condition_feu": "4 - Contenu",
+        "condition_feu": "5 - Maîtrisé",
         "superficie": "9866.7002",
         "mrc": "92 - Maria-Chapdelaine",
         "lat_dms": "49.3775",
@@ -582,14 +566,6 @@
         "mrc": "90 - La Tuque",
         "lat_dms": "48.0569",
         "lon_dms": "-75.2647"
-    },
-    {
-        "no_feu": "213",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "1043",
-        "mrc": "991 - Jamésie",
-        "lat_dms": "49.7425",
-        "lon_dms": "-74.9861"
     },
     {
         "no_feu": "165",
