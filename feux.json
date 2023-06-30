@@ -16,14 +16,6 @@
         "lon_dms": "-79.4"
     },
     {
-        "no_feu": "514",
-        "condition_feu": "4 - Contenu",
-        "superficie": "0",
-        "mrc": "991 - Jamésie",
-        "lat_dms": "49.3658",
-        "lon_dms": "-74.9711"
-    },
-    {
         "no_feu": "496",
         "condition_feu": "4 - Contenu",
         "superficie": "0",
@@ -42,7 +34,7 @@
     {
         "no_feu": "467",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "85100.5",
+        "superficie": "147825.3",
         "mrc": "991 - Jamésie",
         "lat_dms": "50.7289",
         "lon_dms": "-76.2622"
@@ -113,8 +105,8 @@
     },
     {
         "no_feu": "431",
-        "condition_feu": "4 - Contenu",
-        "superficie": "841.09998",
+        "condition_feu": "5 - Maîtrisé",
+        "superficie": "157.3",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.0792",
         "lon_dms": "-75.0025"
@@ -233,7 +225,7 @@
     },
     {
         "no_feu": "365",
-        "condition_feu": "4 - Contenu",
+        "condition_feu": "5 - Maîtrisé",
         "superficie": "302.70001",
         "mrc": "90 - La Tuque",
         "lat_dms": "48.3983",
@@ -265,7 +257,7 @@
     },
     {
         "no_feu": "353",
-        "condition_feu": "3 - Hors-Ctrl",
+        "condition_feu": "4 - Contenu",
         "superficie": "17017",
         "mrc": "95 - La Haute-Côte-Nord",
         "lat_dms": "49.8558",
@@ -305,7 +297,7 @@
     },
     {
         "no_feu": "339",
-        "condition_feu": "4 - Contenu",
+        "condition_feu": "5 - Maîtrisé",
         "superficie": "2339.5",
         "mrc": "90 - La Tuque",
         "lat_dms": "48.4889",
@@ -337,7 +329,7 @@
     },
     {
         "no_feu": "314",
-        "condition_feu": "3 - Hors-Ctrl",
+        "condition_feu": "4 - Contenu",
         "superficie": "122803.8",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.5558",
@@ -385,8 +377,8 @@
     },
     {
         "no_feu": "297",
-        "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "18773",
+        "condition_feu": "4 - Contenu",
+        "superficie": "20553.6",
         "mrc": "89 - La Vallée-de-l'Or",
         "lat_dms": "48.1811",
         "lon_dms": "-76.9086"
