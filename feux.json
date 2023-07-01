@@ -1,15 +1,7 @@
 [
     {
-        "no_feu": "523",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "4.9000001",
-        "mrc": "96 - Manicouagan",
-        "lat_dms": "49.8369",
-        "lon_dms": "-68.2511"
-    },
-    {
         "no_feu": "519",
-        "condition_feu": "3 - Hors-Ctrl",
+        "condition_feu": "4 - Contenu",
         "superficie": "2176.3999",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.9167",
@@ -106,7 +98,7 @@
     {
         "no_feu": "431",
         "condition_feu": "5 - Maîtrisé",
-        "superficie": "157.3",
+        "superficie": "89",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.0792",
         "lon_dms": "-75.0025"
@@ -248,14 +240,6 @@
         "lon_dms": "-75.9203"
     },
     {
-        "no_feu": "359",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "477.20001",
-        "mrc": "35 - Mékinac",
-        "lat_dms": "46.9411",
-        "lon_dms": "-73.3522"
-    },
-    {
         "no_feu": "353",
         "condition_feu": "4 - Contenu",
         "superficie": "17017",
@@ -334,14 +318,6 @@
         "mrc": "991 - Jamésie",
         "lat_dms": "49.5558",
         "lon_dms": "-76.7642"
-    },
-    {
-        "no_feu": "308",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "411.29999",
-        "mrc": "35 - Mékinac",
-        "lat_dms": "47.0047",
-        "lon_dms": "-73.4128"
     },
     {
         "no_feu": "307",
@@ -481,7 +457,7 @@
     },
     {
         "no_feu": "256",
-        "condition_feu": "3 - Hors-Ctrl",
+        "condition_feu": "4 - Contenu",
         "superficie": "7918.3999",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.3014",
@@ -505,7 +481,7 @@
     },
     {
         "no_feu": "245",
-        "condition_feu": "3 - Hors-Ctrl",
+        "condition_feu": "4 - Contenu",
         "superficie": "9462.4004",
         "mrc": "89 - La Vallée-de-l'Or",
         "lat_dms": "48.4708",
@@ -520,28 +496,12 @@
         "lon_dms": "-76.5986"
     },
     {
-        "no_feu": "237",
-        "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "27496.6",
-        "mrc": "89 - La Vallée-de-l'Or",
-        "lat_dms": "48.6086",
-        "lon_dms": "-76.6356"
-    },
-    {
         "no_feu": "236",
         "condition_feu": "5 - Maîtrisé",
         "superficie": "9866.7002",
         "mrc": "92 - Maria-Chapdelaine",
         "lat_dms": "49.3775",
         "lon_dms": "-72.0669"
-    },
-    {
-        "no_feu": "229",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "307.20001",
-        "mrc": "90 - La Tuque",
-        "lat_dms": "47.6956",
-        "lon_dms": "-74.0675"
     },
     {
         "no_feu": "226",
