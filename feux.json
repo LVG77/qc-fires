@@ -1,11 +1,11 @@
 [
     {
-        "no_feu": "537",
-        "condition_feu": "1 - Nouveau",
-        "superficie": "0",
-        "mrc": "85 - Témiscamingue",
-        "lat_dms": "47.3442",
-        "lon_dms": "-79.3136"
+        "no_feu": "539",
+        "condition_feu": "4 - Contenu",
+        "superficie": "5",
+        "mrc": "89 - La Vallée-de-l'Or",
+        "lat_dms": "48.4925",
+        "lon_dms": "-75.6328"
     },
     {
         "no_feu": "536",
@@ -34,7 +34,7 @@
     {
         "no_feu": "496",
         "condition_feu": "4 - Contenu",
-        "superficie": "0",
+        "superficie": "177.89999",
         "mrc": "89 - La Vallée-de-l'Or",
         "lat_dms": "48.5811",
         "lon_dms": "-75.7872"
@@ -186,7 +186,7 @@
     {
         "no_feu": "379",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "71394.297",
+        "superficie": "70266.898",
         "mrc": "92 - Maria-Chapdelaine",
         "lat_dms": "50.1667",
         "lon_dms": "-73.4733"
