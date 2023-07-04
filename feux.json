@@ -249,7 +249,7 @@
     },
     {
         "no_feu": "360",
-        "condition_feu": "4 - Contenu",
+        "condition_feu": "5 - Maîtrisé",
         "superficie": "233.7",
         "mrc": "83 - La Vallée-de-la-Gatineau",
         "lat_dms": "47.4275",
@@ -513,7 +513,7 @@
     },
     {
         "no_feu": "226",
-        "condition_feu": "4 - Contenu",
+        "condition_feu": "5 - Maîtrisé",
         "superficie": "1851.3",
         "mrc": "90 - La Tuque",
         "lat_dms": "47.9914",
