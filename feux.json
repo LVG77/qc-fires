@@ -1,7 +1,15 @@
 [
     {
-        "no_feu": "570",
+        "no_feu": "572",
         "condition_feu": "1 - Nouveau",
+        "superficie": "0",
+        "mrc": "84 - Pontiac",
+        "lat_dms": "47.1042",
+        "lon_dms": "-77.7461"
+    },
+    {
+        "no_feu": "570",
+        "condition_feu": "4 - Contenu",
         "superficie": "0.1",
         "mrc": "85 - Témiscamingue",
         "lat_dms": "46.8856",
@@ -9,7 +17,7 @@
     },
     {
         "no_feu": "568",
-        "condition_feu": "1 - Nouveau",
+        "condition_feu": "4 - Contenu",
         "superficie": "0.5",
         "mrc": "88 - Abitibi",
         "lat_dms": "48.3058",
