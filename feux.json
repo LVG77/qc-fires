@@ -1,23 +1,31 @@
 [
     {
+        "no_feu": "585",
+        "condition_feu": "4 - Contenu",
+        "superficie": "7.6999998",
+        "mrc": "96 - Manicouagan",
+        "lat_dms": "50.5486",
+        "lon_dms": "-68.3786"
+    },
+    {
+        "no_feu": "582",
+        "condition_feu": "4 - Contenu",
+        "superficie": "3",
+        "mrc": "95 - La Haute-Côte-Nord",
+        "lat_dms": "49.5631",
+        "lon_dms": "-69.6933"
+    },
+    {
         "no_feu": "572",
-        "condition_feu": "1 - Nouveau",
-        "superficie": "0",
+        "condition_feu": "5 - Maîtrisé",
+        "superficie": "0.30000001",
         "mrc": "84 - Pontiac",
         "lat_dms": "47.1042",
         "lon_dms": "-77.7461"
     },
     {
-        "no_feu": "570",
-        "condition_feu": "4 - Contenu",
-        "superficie": "0.1",
-        "mrc": "85 - Témiscamingue",
-        "lat_dms": "46.8856",
-        "lon_dms": "-79.1614"
-    },
-    {
         "no_feu": "568",
-        "condition_feu": "4 - Contenu",
+        "condition_feu": "5 - Maîtrisé",
         "superficie": "0.5",
         "mrc": "88 - Abitibi",
         "lat_dms": "48.3058",
@@ -42,7 +50,7 @@
     {
         "no_feu": "535",
         "condition_feu": "4 - Contenu",
-        "superficie": "23287.4",
+        "superficie": "22666.6",
         "mrc": "991 - Jamésie",
         "lat_dms": "50.295",
         "lon_dms": "-78.1756"
@@ -50,7 +58,7 @@
     {
         "no_feu": "519",
         "condition_feu": "4 - Contenu",
-        "superficie": "2176.3999",
+        "superficie": "2122.7",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.9167",
         "lon_dms": "-79.4"
@@ -74,7 +82,7 @@
     {
         "no_feu": "467",
         "condition_feu": "3 - Hors-Ctrl",
-        "superficie": "94080.203",
+        "superficie": "91559",
         "mrc": "991 - Jamésie",
         "lat_dms": "50.7289",
         "lon_dms": "-76.2622"
@@ -378,7 +386,7 @@
     {
         "no_feu": "297",
         "condition_feu": "4 - Contenu",
-        "superficie": "20553.6",
+        "superficie": "20337.199",
         "mrc": "89 - La Vallée-de-l'Or",
         "lat_dms": "48.1811",
         "lon_dms": "-76.9086"
@@ -542,13 +550,5 @@
         "mrc": "90 - La Tuque",
         "lat_dms": "48.0569",
         "lon_dms": "-75.2647"
-    },
-    {
-        "no_feu": "165",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "79.099998",
-        "mrc": "991 - Jamésie",
-        "lat_dms": "49.0486",
-        "lon_dms": "-75.8294"
     }
 ]
