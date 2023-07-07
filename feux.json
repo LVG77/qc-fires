@@ -2,7 +2,7 @@
     {
         "no_feu": "591",
         "condition_feu": "1 - Nouveau",
-        "superficie": "7.5",
+        "superficie": "3.3",
         "mrc": "971 - Sept-Rivières",
         "lat_dms": "51.4653",
         "lon_dms": "-66.8589"
@@ -10,7 +10,7 @@
     {
         "no_feu": "585",
         "condition_feu": "5 - Maîtrisé",
-        "superficie": "78",
+        "superficie": "5",
         "mrc": "96 - Manicouagan",
         "lat_dms": "50.5486",
         "lon_dms": "-68.3786"
