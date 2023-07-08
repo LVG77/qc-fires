@@ -1,8 +1,24 @@
 [
     {
-        "no_feu": "591",
+        "no_feu": "600",
         "condition_feu": "1 - Nouveau",
-        "superficie": "3.3",
+        "superficie": "0",
+        "mrc": "96 - Manicouagan",
+        "lat_dms": "50.5406",
+        "lon_dms": "-67.8375"
+    },
+    {
+        "no_feu": "599",
+        "condition_feu": "1 - Nouveau",
+        "superficie": "0",
+        "mrc": "96 - Manicouagan",
+        "lat_dms": "50.5225",
+        "lon_dms": "-67.8417"
+    },
+    {
+        "no_feu": "591",
+        "condition_feu": "4 - Contenu",
+        "superficie": "3.4000001",
         "mrc": "971 - Sept-Rivières",
         "lat_dms": "51.4653",
         "lon_dms": "-66.8589"
@@ -10,15 +26,15 @@
     {
         "no_feu": "585",
         "condition_feu": "5 - Maîtrisé",
-        "superficie": "5",
+        "superficie": "4.9000001",
         "mrc": "96 - Manicouagan",
         "lat_dms": "50.5486",
         "lon_dms": "-68.3786"
     },
     {
         "no_feu": "582",
-        "condition_feu": "4 - Contenu",
-        "superficie": "3",
+        "condition_feu": "5 - Maîtrisé",
+        "superficie": "2",
         "mrc": "95 - La Haute-Côte-Nord",
         "lat_dms": "49.5639",
         "lon_dms": "-69.6947"
@@ -57,7 +73,7 @@
     },
     {
         "no_feu": "496",
-        "condition_feu": "4 - Contenu",
+        "condition_feu": "5 - Maîtrisé",
         "superficie": "177.89999",
         "mrc": "89 - La Vallée-de-l'Or",
         "lat_dms": "48.5811",
@@ -105,7 +121,7 @@
     },
     {
         "no_feu": "451",
-        "condition_feu": "4 - Contenu",
+        "condition_feu": "5 - Maîtrisé",
         "superficie": "1161.1",
         "mrc": "92 - Maria-Chapdelaine",
         "lat_dms": "49.7681",
@@ -185,7 +201,7 @@
     },
     {
         "no_feu": "379",
-        "condition_feu": "3 - Hors-Ctrl",
+        "condition_feu": "4 - Contenu",
         "superficie": "70266.898",
         "mrc": "92 - Maria-Chapdelaine",
         "lat_dms": "50.1667",
@@ -209,7 +225,7 @@
     },
     {
         "no_feu": "373",
-        "condition_feu": "4 - Contenu",
+        "condition_feu": "5 - Maîtrisé",
         "superficie": "24645.5",
         "mrc": "90 - La Tuque",
         "lat_dms": "48.8433",
@@ -282,7 +298,7 @@
     {
         "no_feu": "344",
         "condition_feu": "4 - Contenu",
-        "superficie": "480819.59",
+        "superficie": "482206.91",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.1222",
         "lon_dms": "-76.7867"
@@ -322,7 +338,7 @@
     {
         "no_feu": "314",
         "condition_feu": "4 - Contenu",
-        "superficie": "122803.8",
+        "superficie": "126138.6",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.5558",
         "lon_dms": "-76.7642"
@@ -409,7 +425,7 @@
     },
     {
         "no_feu": "274",
-        "condition_feu": "3 - Hors-Ctrl",
+        "condition_feu": "4 - Contenu",
         "superficie": "112606.5",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.5083",
