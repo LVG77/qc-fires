@@ -1,8 +1,8 @@
 [
     {
         "no_feu": "616",
-        "condition_feu": "1 - Nouveau",
-        "superficie": "0",
+        "condition_feu": "5 - Maîtrisé",
+        "superficie": "0.1",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.8711",
         "lon_dms": "-76.9358"
@@ -25,7 +25,7 @@
     },
     {
         "no_feu": "591",
-        "condition_feu": "4 - Contenu",
+        "condition_feu": "5 - Maîtrisé",
         "superficie": "3.4000001",
         "mrc": "971 - Sept-Rivières",
         "lat_dms": "51.4653",
