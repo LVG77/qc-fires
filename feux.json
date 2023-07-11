@@ -1,13 +1,5 @@
 [
     {
-        "no_feu": "616",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "0.1",
-        "mrc": "991 - Jamésie",
-        "lat_dms": "49.8711",
-        "lon_dms": "-76.9358"
-    },
-    {
         "no_feu": "609",
         "condition_feu": "5 - Maîtrisé",
         "superficie": "0",
@@ -22,22 +14,6 @@
         "mrc": "96 - Manicouagan",
         "lat_dms": "50.5236",
         "lon_dms": "-67.8375"
-    },
-    {
-        "no_feu": "591",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "3.4000001",
-        "mrc": "971 - Sept-Rivières",
-        "lat_dms": "51.4653",
-        "lon_dms": "-66.8589"
-    },
-    {
-        "no_feu": "585",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "4.9000001",
-        "mrc": "96 - Manicouagan",
-        "lat_dms": "50.5486",
-        "lon_dms": "-68.3786"
     },
     {
         "no_feu": "582",
@@ -57,7 +33,7 @@
     },
     {
         "no_feu": "535",
-        "condition_feu": "4 - Contenu",
+        "condition_feu": "5 - Maîtrisé",
         "superficie": "22666.6",
         "mrc": "991 - Jamésie",
         "lat_dms": "50.295",
@@ -70,14 +46,6 @@
         "mrc": "991 - Jamésie",
         "lat_dms": "49.9167",
         "lon_dms": "-79.4"
-    },
-    {
-        "no_feu": "496",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "177.89999",
-        "mrc": "89 - La Vallée-de-l'Or",
-        "lat_dms": "48.5811",
-        "lon_dms": "-75.7872"
     },
     {
         "no_feu": "481",
@@ -168,28 +136,12 @@
         "lon_dms": "-71.6014"
     },
     {
-        "no_feu": "404",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "221.8",
-        "mrc": "79 - Antoine-Labelle",
-        "lat_dms": "47.2269",
-        "lon_dms": "-74.8572"
-    },
-    {
         "no_feu": "385",
         "condition_feu": "5 - Maîtrisé",
         "superficie": "531.20001",
         "mrc": "96 - Manicouagan",
         "lat_dms": "49.7144",
         "lon_dms": "-69.0931"
-    },
-    {
-        "no_feu": "382",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "2267.7",
-        "mrc": "89 - La Vallée-de-l'Or",
-        "lat_dms": "48.2969",
-        "lon_dms": "-76.1019"
     },
     {
         "no_feu": "379",
@@ -368,14 +320,6 @@
         "lon_dms": "-75.2878"
     },
     {
-        "no_feu": "272",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "17.299999",
-        "mrc": "83 - La Vallée-de-la-Gatineau",
-        "lat_dms": "47.6158",
-        "lon_dms": "-75.7881"
-    },
-    {
         "no_feu": "271",
         "condition_feu": "5 - Maîtrisé",
         "superficie": "6524.7002",
@@ -434,7 +378,7 @@
     {
         "no_feu": "245",
         "condition_feu": "4 - Contenu",
-        "superficie": "10239.9",
+        "superficie": "10202.7",
         "mrc": "89 - La Vallée-de-l'Or",
         "lat_dms": "48.4708",
         "lon_dms": "-76.8569"
