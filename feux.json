@@ -65,7 +65,7 @@
     },
     {
         "no_feu": "462",
-        "condition_feu": "4 - Contenu",
+        "condition_feu": "5 - Maîtrisé",
         "superficie": "15466.1",
         "mrc": "92 - Maria-Chapdelaine",
         "lat_dms": "50.6786",
@@ -81,7 +81,7 @@
     },
     {
         "no_feu": "453",
-        "condition_feu": "4 - Contenu",
+        "condition_feu": "5 - Maîtrisé",
         "superficie": "14557.1",
         "mrc": "92 - Maria-Chapdelaine",
         "lat_dms": "50.7172",
@@ -97,7 +97,7 @@
     },
     {
         "no_feu": "450",
-        "condition_feu": "4 - Contenu",
+        "condition_feu": "5 - Maîtrisé",
         "superficie": "21692.6",
         "mrc": "92 - Maria-Chapdelaine",
         "lat_dms": "50.6519",
@@ -162,7 +162,7 @@
     {
         "no_feu": "375",
         "condition_feu": "5 - Maîtrisé",
-        "superficie": "1900.1",
+        "superficie": "1883.1",
         "mrc": "96 - Manicouagan",
         "lat_dms": "49.5828",
         "lon_dms": "-68.4461"
@@ -382,14 +382,6 @@
         "mrc": "89 - La Vallée-de-l'Or",
         "lat_dms": "48.4708",
         "lon_dms": "-76.8569"
-    },
-    {
-        "no_feu": "238",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "328.20001",
-        "mrc": "89 - La Vallée-de-l'Or",
-        "lat_dms": "47.5953",
-        "lon_dms": "-76.5986"
     },
     {
         "no_feu": "236",
