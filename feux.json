@@ -1,5 +1,13 @@
 [
     {
+        "no_feu": "620",
+        "condition_feu": "4 - Contenu",
+        "superficie": "0.69999999",
+        "mrc": "84 - Pontiac",
+        "lat_dms": "46.4544",
+        "lon_dms": "-76.5858"
+    },
+    {
         "no_feu": "609",
         "condition_feu": "5 - Maîtrisé",
         "superficie": "0",
@@ -9,19 +17,11 @@
     },
     {
         "no_feu": "599",
-        "condition_feu": "4 - Contenu",
+        "condition_feu": "5 - Maîtrisé",
         "superficie": "146.39999",
         "mrc": "96 - Manicouagan",
         "lat_dms": "50.5236",
         "lon_dms": "-67.8375"
-    },
-    {
-        "no_feu": "582",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "2",
-        "mrc": "95 - La Haute-Côte-Nord",
-        "lat_dms": "49.5639",
-        "lon_dms": "-69.6947"
     },
     {
         "no_feu": "536",
@@ -72,28 +72,12 @@
         "lon_dms": "-72.8358"
     },
     {
-        "no_feu": "454",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "3390.3999",
-        "mrc": "92 - Maria-Chapdelaine",
-        "lat_dms": "50.3847",
-        "lon_dms": "-72.1808"
-    },
-    {
         "no_feu": "453",
         "condition_feu": "5 - Maîtrisé",
         "superficie": "14557.1",
         "mrc": "92 - Maria-Chapdelaine",
         "lat_dms": "50.7172",
         "lon_dms": "-72.555"
-    },
-    {
-        "no_feu": "451",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "1161.1",
-        "mrc": "92 - Maria-Chapdelaine",
-        "lat_dms": "49.7681",
-        "lon_dms": "-73.3861"
     },
     {
         "no_feu": "450",
@@ -112,28 +96,12 @@
         "lon_dms": "-74.985"
     },
     {
-        "no_feu": "439",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "174.39999",
-        "mrc": "942 - Le Fjord-du-Saguenay",
-        "lat_dms": "49.5486",
-        "lon_dms": "-70.8086"
-    },
-    {
         "no_feu": "430",
         "condition_feu": "5 - Maîtrisé",
         "superficie": "48.5",
         "mrc": "95 - La Haute-Côte-Nord",
         "lat_dms": "49.3747",
         "lon_dms": "-69.7864"
-    },
-    {
-        "no_feu": "408",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "896.59998",
-        "mrc": "92 - Maria-Chapdelaine",
-        "lat_dms": "49.6006",
-        "lon_dms": "-71.6014"
     },
     {
         "no_feu": "385",
@@ -248,14 +216,6 @@
         "lon_dms": "-76.1267"
     },
     {
-        "no_feu": "305",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "1524.2",
-        "mrc": "92 - Maria-Chapdelaine",
-        "lat_dms": "49.7236",
-        "lon_dms": "-72.6042"
-    },
-    {
         "no_feu": "299",
         "condition_feu": "5 - Maîtrisé",
         "superficie": "7241.2002",
@@ -272,24 +232,8 @@
         "lon_dms": "-76.9086"
     },
     {
-        "no_feu": "295",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "1089.2",
-        "mrc": "92 - Maria-Chapdelaine",
-        "lat_dms": "49.6947",
-        "lon_dms": "-72.5819"
-    },
-    {
-        "no_feu": "294",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "0",
-        "mrc": "95 - La Haute-Côte-Nord",
-        "lat_dms": "49.4994",
-        "lon_dms": "-69.5892"
-    },
-    {
         "no_feu": "283",
-        "condition_feu": "4 - Contenu",
+        "condition_feu": "5 - Maîtrisé",
         "superficie": "11409.6",
         "mrc": "96 - Manicouagan",
         "lat_dms": "49.5558",
@@ -304,28 +248,12 @@
         "lon_dms": "-79.3578"
     },
     {
-        "no_feu": "279",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "145.7",
-        "mrc": "942 - Le Fjord-du-Saguenay",
-        "lat_dms": "50.7486",
-        "lon_dms": "-70.1975"
-    },
-    {
         "no_feu": "274",
         "condition_feu": "4 - Contenu",
         "superficie": "112606.5",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.5083",
         "lon_dms": "-75.2878"
-    },
-    {
-        "no_feu": "271",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "6524.7002",
-        "mrc": "942 - Le Fjord-du-Saguenay",
-        "lat_dms": "50.2925",
-        "lon_dms": "-70.5722"
     },
     {
         "no_feu": "270",
@@ -345,7 +273,7 @@
     },
     {
         "no_feu": "261",
-        "condition_feu": "4 - Contenu",
+        "condition_feu": "5 - Maîtrisé",
         "superficie": "15431.9",
         "mrc": "95 - La Haute-Côte-Nord",
         "lat_dms": "49.5064",
