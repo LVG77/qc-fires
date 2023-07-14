@@ -1,19 +1,11 @@
 [
     {
         "no_feu": "620",
-        "condition_feu": "4 - Contenu",
+        "condition_feu": "5 - Maîtrisé",
         "superficie": "0.69999999",
         "mrc": "84 - Pontiac",
         "lat_dms": "46.4544",
         "lon_dms": "-76.5858"
-    },
-    {
-        "no_feu": "609",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "0",
-        "mrc": "96 - Manicouagan",
-        "lat_dms": "49.6564",
-        "lon_dms": "-68.7319"
     },
     {
         "no_feu": "599",
@@ -41,7 +33,7 @@
     },
     {
         "no_feu": "519",
-        "condition_feu": "4 - Contenu",
+        "condition_feu": "5 - Maîtrisé",
         "superficie": "2181.8999",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.9167",
@@ -80,6 +72,14 @@
         "lon_dms": "-72.555"
     },
     {
+        "no_feu": "451",
+        "condition_feu": "5 - Maîtrisé",
+        "superficie": "1161.1",
+        "mrc": "92 - Maria-Chapdelaine",
+        "lat_dms": "49.7681",
+        "lon_dms": "-73.3861"
+    },
+    {
         "no_feu": "450",
         "condition_feu": "5 - Maîtrisé",
         "superficie": "21692.6",
@@ -89,7 +89,7 @@
     },
     {
         "no_feu": "449",
-        "condition_feu": "4 - Contenu",
+        "condition_feu": "5 - Maîtrisé",
         "superficie": "46218.699",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.2592",
