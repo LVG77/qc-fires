@@ -1,13 +1,5 @@
 [
     {
-        "no_feu": "620",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "0.69999999",
-        "mrc": "84 - Pontiac",
-        "lat_dms": "46.4544",
-        "lon_dms": "-76.5858"
-    },
-    {
         "no_feu": "599",
         "condition_feu": "5 - Maîtrisé",
         "superficie": "146.39999",
@@ -54,22 +46,6 @@
         "mrc": "991 - Jamésie",
         "lat_dms": "50.7289",
         "lon_dms": "-76.2622"
-    },
-    {
-        "no_feu": "462",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "15466.1",
-        "mrc": "92 - Maria-Chapdelaine",
-        "lat_dms": "50.6786",
-        "lon_dms": "-72.8358"
-    },
-    {
-        "no_feu": "453",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "14557.1",
-        "mrc": "92 - Maria-Chapdelaine",
-        "lat_dms": "50.7172",
-        "lon_dms": "-72.555"
     },
     {
         "no_feu": "451",
@@ -160,28 +136,12 @@
         "lon_dms": "-70.0192"
     },
     {
-        "no_feu": "351",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "7226.2998",
-        "mrc": "991 - Jamésie",
-        "lat_dms": "49.1106",
-        "lon_dms": "-74.62"
-    },
-    {
         "no_feu": "344",
         "condition_feu": "4 - Contenu",
         "superficie": "482206.91",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.1222",
         "lon_dms": "-76.7867"
-    },
-    {
-        "no_feu": "337",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "805.09998",
-        "mrc": "84 - Pontiac",
-        "lat_dms": "46.5953",
-        "lon_dms": "-77.3606"
     },
     {
         "no_feu": "334",
@@ -296,14 +256,6 @@
         "lon_dms": "-71.0489"
     },
     {
-        "no_feu": "248",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "8583.5996",
-        "mrc": "89 - La Vallée-de-l'Or",
-        "lat_dms": "47.9144",
-        "lon_dms": "-75.7328"
-    },
-    {
         "no_feu": "245",
         "condition_feu": "4 - Contenu",
         "superficie": "10202.7",
@@ -318,13 +270,5 @@
         "mrc": "92 - Maria-Chapdelaine",
         "lat_dms": "49.3775",
         "lon_dms": "-72.0669"
-    },
-    {
-        "no_feu": "225",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "9749",
-        "mrc": "90 - La Tuque",
-        "lat_dms": "48.0569",
-        "lon_dms": "-75.2647"
     }
 ]
