@@ -16,14 +16,6 @@
         "lon_dms": "-67.8375"
     },
     {
-        "no_feu": "536",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "289",
-        "mrc": "95 - La Haute-Côte-Nord",
-        "lat_dms": "49.6592",
-        "lon_dms": "-69.9222"
-    },
-    {
         "no_feu": "535",
         "condition_feu": "5 - Maîtrisé",
         "superficie": "22666.6",
@@ -70,14 +62,6 @@
         "mrc": "991 - Jamésie",
         "lat_dms": "49.2592",
         "lon_dms": "-74.985"
-    },
-    {
-        "no_feu": "430",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "48.5",
-        "mrc": "95 - La Haute-Côte-Nord",
-        "lat_dms": "49.3747",
-        "lon_dms": "-69.7864"
     },
     {
         "no_feu": "385",
@@ -150,14 +134,6 @@
         "mrc": "991 - Jamésie",
         "lat_dms": "50.4528",
         "lon_dms": "-74.1314"
-    },
-    {
-        "no_feu": "326",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "520.79999",
-        "mrc": "95 - La Haute-Côte-Nord",
-        "lat_dms": "49.66",
-        "lon_dms": "-69.9722"
     },
     {
         "no_feu": "314",
