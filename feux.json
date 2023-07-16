@@ -1,5 +1,13 @@
 [
     {
+        "no_feu": "632",
+        "condition_feu": "4 - Contenu",
+        "superficie": "0",
+        "mrc": "10 - Rimouski-Neigette",
+        "lat_dms": "48.2081",
+        "lon_dms": "-68.6547"
+    },
+    {
         "no_feu": "599",
         "condition_feu": "5 - Maîtrisé",
         "superficie": "146.39999",
@@ -30,14 +38,6 @@
         "mrc": "991 - Jamésie",
         "lat_dms": "49.9167",
         "lon_dms": "-79.4"
-    },
-    {
-        "no_feu": "481",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "1276.5",
-        "mrc": "991 - Jamésie",
-        "lat_dms": "49.0325",
-        "lon_dms": "-75.3522"
     },
     {
         "no_feu": "467",
@@ -138,14 +138,14 @@
     {
         "no_feu": "344",
         "condition_feu": "4 - Contenu",
-        "superficie": "482206.91",
+        "superficie": "481991.41",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.1222",
         "lon_dms": "-76.7867"
     },
     {
         "no_feu": "334",
-        "condition_feu": "4 - Contenu",
+        "condition_feu": "5 - Maîtrisé",
         "superficie": "246382.8",
         "mrc": "991 - Jamésie",
         "lat_dms": "50.4528",
@@ -162,26 +162,10 @@
     {
         "no_feu": "314",
         "condition_feu": "4 - Contenu",
-        "superficie": "126138.6",
+        "superficie": "127090.3",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.5558",
         "lon_dms": "-76.7642"
-    },
-    {
-        "no_feu": "307",
-        "condition_feu": "4 - Contenu",
-        "superficie": "0",
-        "mrc": "991 - Jamésie",
-        "lat_dms": "49.4628",
-        "lon_dms": "-76.1267"
-    },
-    {
-        "no_feu": "299",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "7241.2002",
-        "mrc": "92 - Maria-Chapdelaine",
-        "lat_dms": "49.2889",
-        "lon_dms": "-72.4139"
     },
     {
         "no_feu": "297",
@@ -209,7 +193,7 @@
     },
     {
         "no_feu": "274",
-        "condition_feu": "4 - Contenu",
+        "condition_feu": "5 - Maîtrisé",
         "superficie": "112606.5",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.5083",
@@ -262,13 +246,5 @@
         "mrc": "89 - La Vallée-de-l'Or",
         "lat_dms": "48.4708",
         "lon_dms": "-76.8569"
-    },
-    {
-        "no_feu": "236",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "9866.7002",
-        "mrc": "92 - Maria-Chapdelaine",
-        "lat_dms": "49.3775",
-        "lon_dms": "-72.0669"
     }
 ]
