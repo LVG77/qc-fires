@@ -1,21 +1,5 @@
 [
     {
-        "no_feu": "632",
-        "condition_feu": "4 - Contenu",
-        "superficie": "0",
-        "mrc": "10 - Rimouski-Neigette",
-        "lat_dms": "48.2081",
-        "lon_dms": "-68.6547"
-    },
-    {
-        "no_feu": "599",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "146.39999",
-        "mrc": "96 - Manicouagan",
-        "lat_dms": "50.5236",
-        "lon_dms": "-67.8375"
-    },
-    {
         "no_feu": "535",
         "condition_feu": "5 - Maîtrisé",
         "superficie": "22666.6",
@@ -33,7 +17,7 @@
     },
     {
         "no_feu": "467",
-        "condition_feu": "4 - Contenu",
+        "condition_feu": "5 - Maîtrisé",
         "superficie": "88741.102",
         "mrc": "991 - Jamésie",
         "lat_dms": "50.7289",
@@ -64,14 +48,6 @@
         "lon_dms": "-74.985"
     },
     {
-        "no_feu": "385",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "531.20001",
-        "mrc": "96 - Manicouagan",
-        "lat_dms": "49.7144",
-        "lon_dms": "-69.0931"
-    },
-    {
         "no_feu": "379",
         "condition_feu": "4 - Contenu",
         "superficie": "70266.898",
@@ -86,14 +62,6 @@
         "mrc": "971 - Sept-Rivières",
         "lat_dms": "50.4303",
         "lon_dms": "-66.2133"
-    },
-    {
-        "no_feu": "375",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "1883.1",
-        "mrc": "96 - Manicouagan",
-        "lat_dms": "49.5828",
-        "lon_dms": "-68.4461"
     },
     {
         "no_feu": "373",
@@ -176,14 +144,6 @@
         "lon_dms": "-75.2878"
     },
     {
-        "no_feu": "270",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "3045",
-        "mrc": "96 - Manicouagan",
-        "lat_dms": "49.7389",
-        "lon_dms": "-68.6347"
-    },
-    {
         "no_feu": "265",
         "condition_feu": "5 - Maîtrisé",
         "superficie": "6052.2998",
@@ -201,7 +161,7 @@
     },
     {
         "no_feu": "256",
-        "condition_feu": "4 - Contenu",
+        "condition_feu": "5 - Maîtrisé",
         "superficie": "7918.3999",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.3014",
