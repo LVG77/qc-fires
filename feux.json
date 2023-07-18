@@ -1,5 +1,13 @@
 [
     {
+        "no_feu": "634",
+        "condition_feu": "1 - Nouveau",
+        "superficie": "0",
+        "mrc": "991 - Jamésie",
+        "lat_dms": "50.0181",
+        "lon_dms": "-79.0653"
+    },
+    {
         "no_feu": "535",
         "condition_feu": "5 - Maîtrisé",
         "superficie": "22666.6",
@@ -49,7 +57,7 @@
     },
     {
         "no_feu": "379",
-        "condition_feu": "4 - Contenu",
+        "condition_feu": "5 - Maîtrisé",
         "superficie": "70266.898",
         "mrc": "92 - Maria-Chapdelaine",
         "lat_dms": "50.1667",
@@ -70,14 +78,6 @@
         "mrc": "90 - La Tuque",
         "lat_dms": "48.8433",
         "lon_dms": "-75.1025"
-    },
-    {
-        "no_feu": "370",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "2934.1001",
-        "mrc": "991 - Jamésie",
-        "lat_dms": "49.2325",
-        "lon_dms": "-75.31"
     },
     {
         "no_feu": "353",
