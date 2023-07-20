@@ -1,13 +1,5 @@
 [
     {
-        "no_feu": "634",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "0.1",
-        "mrc": "991 - Jamésie",
-        "lat_dms": "50.0181",
-        "lon_dms": "-79.0653"
-    },
-    {
         "no_feu": "535",
         "condition_feu": "5 - Maîtrisé",
         "superficie": "22666.6",
