@@ -120,14 +120,6 @@
         "lon_dms": "-75.2878"
     },
     {
-        "no_feu": "265",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "6052.2998",
-        "mrc": "92 - Maria-Chapdelaine",
-        "lat_dms": "49.4403",
-        "lon_dms": "-71.5572"
-    },
-    {
         "no_feu": "261",
         "condition_feu": "5 - Maîtrisé",
         "superficie": "15431.9",
@@ -142,14 +134,6 @@
         "mrc": "991 - Jamésie",
         "lat_dms": "49.3014",
         "lon_dms": "-76.9186"
-    },
-    {
-        "no_feu": "249",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "6645.7002",
-        "mrc": "942 - Le Fjord-du-Saguenay",
-        "lat_dms": "49.3578",
-        "lon_dms": "-71.0489"
     },
     {
         "no_feu": "245",
