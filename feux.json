@@ -42,7 +42,7 @@
     {
         "no_feu": "378",
         "condition_feu": "5 - Maîtrisé",
-        "superficie": "9",
+        "superficie": "45705.199",
         "mrc": "971 - Sept-Rivières",
         "lat_dms": "50.4303",
         "lon_dms": "-66.2133"
@@ -57,7 +57,7 @@
     },
     {
         "no_feu": "344",
-        "condition_feu": "4 - Contenu",
+        "condition_feu": "5 - Maîtrisé",
         "superficie": "481991.41",
         "mrc": "991 - Jamésie",
         "lat_dms": "49.1222",
