@@ -1,7 +1,7 @@
 [
     {
         "no_feu": "641",
-        "condition_feu": "4 - Contenu",
+        "condition_feu": "5 - Maîtrisé",
         "superficie": "2.5999999",
         "mrc": "92 - Maria-Chapdelaine",
         "lat_dms": "49.8758",
@@ -14,14 +14,6 @@
         "mrc": "991 - Jamésie",
         "lat_dms": "50.295",
         "lon_dms": "-78.1756"
-    },
-    {
-        "no_feu": "519",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "2181.8999",
-        "mrc": "991 - Jamésie",
-        "lat_dms": "49.9167",
-        "lon_dms": "-79.4"
     },
     {
         "no_feu": "467",
@@ -54,14 +46,6 @@
         "mrc": "971 - Sept-Rivières",
         "lat_dms": "50.4303",
         "lon_dms": "-66.2133"
-    },
-    {
-        "no_feu": "353",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "17017",
-        "mrc": "95 - La Haute-Côte-Nord",
-        "lat_dms": "49.8558",
-        "lon_dms": "-70.0192"
     },
     {
         "no_feu": "344",
