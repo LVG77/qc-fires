@@ -32,14 +32,6 @@
         "lon_dms": "-73.4733"
     },
     {
-        "no_feu": "378",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "45705.199",
-        "mrc": "971 - Sept-Rivières",
-        "lat_dms": "50.4303",
-        "lon_dms": "-66.2133"
-    },
-    {
         "no_feu": "344",
         "condition_feu": "5 - Maîtrisé",
         "superficie": "481991.41",
@@ -72,14 +64,6 @@
         "lon_dms": "-76.9086"
     },
     {
-        "no_feu": "283",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "11409.6",
-        "mrc": "96 - Manicouagan",
-        "lat_dms": "49.5558",
-        "lon_dms": "-68.6725"
-    },
-    {
         "no_feu": "281",
         "condition_feu": "5 - Maîtrisé",
         "superficie": "11478.2",
@@ -94,14 +78,6 @@
         "mrc": "991 - Jamésie",
         "lat_dms": "49.5083",
         "lon_dms": "-75.2878"
-    },
-    {
-        "no_feu": "261",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "15431.9",
-        "mrc": "95 - La Haute-Côte-Nord",
-        "lat_dms": "49.5064",
-        "lon_dms": "-69.6569"
     },
     {
         "no_feu": "256",
