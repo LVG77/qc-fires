@@ -1,13 +1,5 @@
 [
     {
-        "no_feu": "645",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "0.1",
-        "mrc": "7 - La Matapédia",
-        "lat_dms": "48.5775",
-        "lon_dms": "-66.1464"
-    },
-    {
         "no_feu": "535",
         "condition_feu": "5 - Maîtrisé",
         "superficie": "22666.6",
@@ -62,14 +54,6 @@
         "mrc": "991 - Jamésie",
         "lat_dms": "49.5558",
         "lon_dms": "-76.7642"
-    },
-    {
-        "no_feu": "297",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "21161",
-        "mrc": "89 - La Vallée-de-l'Or",
-        "lat_dms": "48.1811",
-        "lon_dms": "-76.9086"
     },
     {
         "no_feu": "281",
