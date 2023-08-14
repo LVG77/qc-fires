@@ -1,5 +1,13 @@
 [
     {
+        "no_feu": "656",
+        "condition_feu": "5 - Maîtrisé",
+        "superficie": "0",
+        "mrc": "89 - La Vallée-de-l'Or",
+        "lat_dms": "48.1058",
+        "lon_dms": "-77.7728"
+    },
+    {
         "no_feu": "535",
         "condition_feu": "5 - Maîtrisé",
         "superficie": "22666.6",
