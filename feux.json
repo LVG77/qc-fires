@@ -1,5 +1,13 @@
 [
     {
+        "no_feu": "659",
+        "condition_feu": "4 - Contenu",
+        "superficie": "0",
+        "mrc": "86 - Rouyn-Noranda",
+        "lat_dms": "48.3086",
+        "lon_dms": "-79.0267"
+    },
+    {
         "no_feu": "535",
         "condition_feu": "5 - Maîtrisé",
         "superficie": "22666.6",
@@ -38,14 +46,6 @@
         "mrc": "991 - Jamésie",
         "lat_dms": "49.5558",
         "lon_dms": "-76.7642"
-    },
-    {
-        "no_feu": "281",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "11478.2",
-        "mrc": "991 - Jamésie",
-        "lat_dms": "49.0622",
-        "lon_dms": "-79.3578"
     },
     {
         "no_feu": "274",
