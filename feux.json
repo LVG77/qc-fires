@@ -1,21 +1,5 @@
 [
     {
-        "no_feu": "659",
-        "condition_feu": "4 - Contenu",
-        "superficie": "0",
-        "mrc": "86 - Rouyn-Noranda",
-        "lat_dms": "48.3086",
-        "lon_dms": "-79.0267"
-    },
-    {
-        "no_feu": "535",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "22666.6",
-        "mrc": "991 - Jamésie",
-        "lat_dms": "50.295",
-        "lon_dms": "-78.1756"
-    },
-    {
         "no_feu": "467",
         "condition_feu": "5 - Maîtrisé",
         "superficie": "88741.102",
@@ -30,14 +14,6 @@
         "mrc": "991 - Jamésie",
         "lat_dms": "49.1222",
         "lon_dms": "-76.7867"
-    },
-    {
-        "no_feu": "334",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "245792.09",
-        "mrc": "991 - Jamésie",
-        "lat_dms": "50.4528",
-        "lon_dms": "-74.1314"
     },
     {
         "no_feu": "314",
@@ -62,13 +38,5 @@
         "mrc": "991 - Jamésie",
         "lat_dms": "49.3014",
         "lon_dms": "-76.9186"
-    },
-    {
-        "no_feu": "245",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "10202.7",
-        "mrc": "89 - La Vallée-de-l'Or",
-        "lat_dms": "48.4708",
-        "lon_dms": "-76.8569"
     }
 ]
