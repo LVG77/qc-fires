@@ -22,13 +22,5 @@
         "mrc": "991 - Jamésie",
         "lat_dms": "49.5083",
         "lon_dms": "-75.2878"
-    },
-    {
-        "no_feu": "256",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "7918.3999",
-        "mrc": "991 - Jamésie",
-        "lat_dms": "49.3014",
-        "lon_dms": "-76.9186"
     }
 ]
