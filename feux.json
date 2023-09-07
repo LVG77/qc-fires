@@ -1,7 +1,15 @@
 [
     {
-        "no_feu": "671",
+        "no_feu": "674",
         "condition_feu": "1 - Nouveau",
+        "superficie": "0",
+        "mrc": "83 - La Vallée-de-la-Gatineau",
+        "lat_dms": "46.0011",
+        "lon_dms": "-75.7958"
+    },
+    {
+        "no_feu": "671",
+        "condition_feu": "4 - Contenu",
         "superficie": "20",
         "mrc": "991 - Jamésie",
         "lat_dms": "50.3703",
