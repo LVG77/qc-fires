@@ -1,5 +1,13 @@
 [
     {
+        "no_feu": "692",
+        "condition_feu": "1 - Nouveau",
+        "superficie": "0",
+        "mrc": "95 - La Haute-Côte-Nord",
+        "lat_dms": "48.5019",
+        "lon_dms": "-69.2858"
+    },
+    {
         "no_feu": "690",
         "condition_feu": "4 - Contenu",
         "superficie": "0.1",
