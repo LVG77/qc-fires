@@ -1,7 +1,15 @@
 [
     {
+        "no_feu": "694",
+        "condition_feu": "5 - Maîtrisé",
+        "superficie": "0",
+        "mrc": "89 - La Vallée-de-l'Or",
+        "lat_dms": "47.995",
+        "lon_dms": "-76.9744"
+    },
+    {
         "no_feu": "690",
-        "condition_feu": "4 - Contenu",
+        "condition_feu": "5 - Maîtrisé",
         "superficie": "0.69999999",
         "mrc": "77 - Les Pays-d'en-Haut",
         "lat_dms": "45.9789",
