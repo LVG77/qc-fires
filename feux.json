@@ -1,5 +1,13 @@
 [
     {
+        "no_feu": "696",
+        "condition_feu": "5 - Maîtrisé",
+        "superficie": "0.1",
+        "mrc": "83 - La Vallée-de-la-Gatineau",
+        "lat_dms": "46.7592",
+        "lon_dms": "-76.3775"
+    },
+    {
         "no_feu": "694",
         "condition_feu": "5 - Maîtrisé",
         "superficie": "0",
@@ -14,22 +22,6 @@
         "mrc": "77 - Les Pays-d'en-Haut",
         "lat_dms": "45.9789",
         "lon_dms": "-74.1319"
-    },
-    {
-        "no_feu": "681",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "0",
-        "mrc": "991 - Jamésie",
-        "lat_dms": "50.0897",
-        "lon_dms": "-75.5778"
-    },
-    {
-        "no_feu": "671",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "20",
-        "mrc": "991 - Jamésie",
-        "lat_dms": "50.3703",
-        "lon_dms": "-78.2178"
     },
     {
         "no_feu": "344",
