@@ -10,10 +10,10 @@
     {
         "no_feu": "690",
         "condition_feu": "5 - Maîtrisé",
-        "superficie": "2.5999999",
+        "superficie": "3",
         "mrc": "77 - Les Pays-d'en-Haut",
-        "lat_dms": "45.9789",
-        "lon_dms": "-74.1319"
+        "lat_dms": "45.9781",
+        "lon_dms": "-74.1344"
     },
     {
         "no_feu": "344",
