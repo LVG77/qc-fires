@@ -1,27 +1,11 @@
 [
     {
         "no_feu": "704",
-        "condition_feu": "4 - Contenu",
+        "condition_feu": "5 - Maîtrisé",
         "superficie": "0.30000001",
         "mrc": "62 - Matawinie",
         "lat_dms": "47.7564",
         "lon_dms": "-74.8214"
-    },
-    {
-        "no_feu": "703",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "0.30000001",
-        "mrc": "83 - La Vallée-de-la-Gatineau",
-        "lat_dms": "45.9717",
-        "lon_dms": "-75.7881"
-    },
-    {
-        "no_feu": "702",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "4.6999998",
-        "mrc": "83 - La Vallée-de-la-Gatineau",
-        "lat_dms": "46.2961",
-        "lon_dms": "-76.2253"
     },
     {
         "no_feu": "344",
