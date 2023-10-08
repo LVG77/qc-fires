@@ -1,13 +1,5 @@
 [
     {
-        "no_feu": "704",
-        "condition_feu": "5 - Maîtrisé",
-        "superficie": "0.30000001",
-        "mrc": "62 - Matawinie",
-        "lat_dms": "47.7564",
-        "lon_dms": "-74.8214"
-    },
-    {
         "no_feu": "344",
         "condition_feu": "5 - Maîtrisé",
         "superficie": "481991.41",
